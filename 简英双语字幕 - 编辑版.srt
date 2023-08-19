@@ -24,67 +24,72 @@
 
 7
 00:03:33,500 --> 00:03:35,460
-太精彩了
+女：太精彩了
 {\fs11}WOMAN: Splendid.{\r}
 
 8
 00:03:41,130 --> 00:03:43,970
-抱歉 先生 我车上已经有客人了
+车夫1：抱歉 先生 我车上已经有客人了
 {\fs11}VALET 1 : Sorry, sir, I've already got one there.{\r}
 
 9
 00:03:47,970 --> 00:03:49,890
+[聊天的声音]
 {\fs11}[CHATTERING]{\r}
 
 10
 00:03:55,400 --> 00:03:57,650
-过来 先生 过来
+车夫1：过来 先生 过来
 {\fs11}VALET 1 : Over here, sir, over here.{\r}
 
 11
 00:03:57,860 --> 00:03:59,940
-过来
+车夫2：过来
 {\fs11}VALET 2: Coming through.{\r}
 
 12
 00:04:00,240 --> 00:04:01,360
+[车夫2的口哨声]
 {\fs11}[VALET 2 WHISTLES]{\r}
 
 13
 00:04:03,530 --> 00:04:05,610
-过来 先生
+车夫1：过来 先生
 {\fs11}VALET 1 : Over here, sir.{\r}
 
 14
 00:04:08,370 --> 00:04:10,450
-让下路
+车夫1：让下路
 {\fs11}VALET 1 : Make way.{\r}
 
 15
 00:04:11,960 --> 00:04:14,080
-弗瑞迪 噢 已经太晚了
+伊莉莎：弗雷迪 噢 已经太晚了
 {\fs11}ELIZA: Freddy, oh, it's already very late.{\r}
 
 16
 00:04:14,710 --> 00:04:17,040
+[聊天的声音]
 {\fs11}[CHATTERING]{\r}
 
 17
 00:04:21,840 --> 00:04:23,920
+[人们的抱怨声]
 {\fs11}[PEOPLE MURMURING]{\r}
 
 18
 00:04:27,640 --> 00:04:29,220
-把它展开 赶紧盖好
+男：把它展开 赶紧盖好
 {\fs11}MAN: Move it, darn it.{\r}
 
 19
 00:04:38,690 --> 00:04:40,020
+[汽车喇叭声]
 {\fs11}[HORN HONKING]{\r}
 
 20
 00:04:55,830 --> 00:04:58,380
-弗瑞迪 去叫辆马车来
+弗雷迪 去叫辆马车来
 {\fs11}[MRS. EYNSFORD-HILL] Freddy, go and find a cab.{\r}
 
 21
@@ -94,7 +99,7 @@
 
 22
 00:05:07,760 --> 00:05:08,800
-当心点儿 笨蛋
+男：当心点儿 笨蛋
 {\fs11}MAN: Watch out, daffy.{\r}
 
 23
@@ -104,30 +109,32 @@
 
 24
 00:05:12,310 --> 00:05:15,230
-别光站在那儿 弗瑞迪 去叫辆出租车来
+别光站在那儿 弗雷迪 去叫辆出租车来
 {\fs11}Don't just stand there, Freddy. Go and find a cab.{\r}
 
 25
 00:05:15,440 --> 00:05:17,690
 好的 我这就去叫 我这就去叫车
-{\fs11}All right, I'll get it. I'll get it.{\r}
+{\fs11}AII right, I'II get it. I'II get it.{\r}
 
 26
 00:05:18,730 --> 00:05:20,730
-我都被淋湿了
+男：我都被淋湿了
 {\fs11}MAN: I'm getting wet.{\r}
 
 27
 00:05:23,440 --> 00:05:24,530
+[费雷迪的口哨声]
 {\fs11}[FREDDY WHISTLES]{\r}
 
 28
 00:05:24,740 --> 00:05:26,400
-抱歉
+男：抱歉
 {\fs11}MAN: I'm so sorry.{\r}
 
 29
 00:05:31,370 --> 00:05:32,660
+[咕噜声]
 {\fs11}[GRUNTS]{\r}
 
 30
@@ -152,12 +159,12 @@
 
 34
 00:05:42,500 --> 00:05:43,630
-弗瑞迪
+弗雷迪
 {\fs11}EYNSFORD-HILL: Freddy.{\r}
 
 35
 00:05:43,840 --> 00:05:45,670
-弗瑞迪 还不快去叫辆出租车
+弗雷迪 还不快去叫辆出租车
 {\fs11}Freddy, go and find a cab.{\r}
 
 36
@@ -292,7 +299,7 @@
 
 62
 00:07:01,170 --> 00:07:02,830
-- 别再说了 - 怎么这么吵？
+男1：- 别再说了 - 怎么这么吵？
 {\fs11}MAN 1 : Don't start. - What's all the noise?{\r}
 
 63
@@ -307,7 +314,7 @@
 
 65
 00:07:06,050 --> 00:07:07,250
-是谁在那儿大喊大叫的？
+男2：是谁在那儿大喊大叫的？
 {\fs11}MAN 2: Who's doing all that shouting?{\r}
 
 66
@@ -323,7 +330,7 @@
 68
 00:07:13,140 --> 00:07:15,600
 他们会毁掉我的名誉让我流落街头…
-{\fs11}They'll take away me character and drive me on the streets{\r}
+{\fs11}They'II take away me character and drive me on the streets{\r}
 
 69
 00:07:15,810 --> 00:07:17,220
@@ -367,7 +374,7 @@
 
 77
 00:07:34,370 --> 00:07:35,780
-噢
+伊莉莎：噢
 {\fs11}ELIZA: Oh.{\r}
 
 78
@@ -403,7 +410,7 @@
 84
 00:07:57,430 --> 00:07:58,890
 我不会指控的
-{\fs11}I'll make no charge.{\r}
+{\fs11}I'II make no charge.{\r}
 
 85
 00:07:59,100 --> 00:08:01,890
@@ -813,7 +820,7 @@
 166
 00:11:36,570 --> 00:11:37,610
 请原谅
-{\fs11}PlCKERlNG: I beg your pardon.{\r}
+{\fs11}PICKERING: I beg your pardon.{\r}
 
 167
 00:11:37,820 --> 00:11:41,110
@@ -833,7 +840,7 @@
 170
 00:11:45,160 --> 00:11:48,280
 <i>我恐怕我们再也不会有一种同样的语言</i>
-{\fs11}One common language I'm afraid we'll never get{\r}
+{\fs11}One common language I'm afraid we'II never get{\r}
 
 171
 00:11:48,490 --> 00:11:52,370
@@ -862,6 +869,7 @@
 
 176
 00:12:08,970 --> 00:12:10,270
+[皮克林的笑声]
 {\fs11}[PICKERING LAUGHS]{\r}
 
 177
@@ -927,7 +935,7 @@
 189
 00:12:56,850 --> 00:12:59,610
 这样的英语不只会让她到死都生活在贫民区吗？
-{\fs11}The English that'll keep her in the gutter till the end of her days?{\r}
+{\fs11}The English that'II keep her in the gutter till the end of her days?{\r}
 
 190
 00:12:59,820 --> 00:13:01,610
@@ -976,6 +984,7 @@
 
 199
 00:13:22,960 --> 00:13:24,760
+[希金斯在咯咯笑]
 {\fs11}[HIGGINS CHUCKLES]{\r}
 
 200
@@ -1030,12 +1039,13 @@
 
 210
 00:13:48,280 --> 00:13:49,320
+[两人在笑]
 {\fs11}[BOTH LAUGHING]{\r}
 
 211
 00:13:49,530 --> 00:13:50,910
 - 希金斯 - 你住在什么地方？
-{\fs11}PlCKERlNG: Higgins. - Where are you staying?{\r}
+{\fs11}PICKERING: Higgins. - Where are you staying?{\r}
 
 212
 00:13:51,120 --> 00:13:52,160
@@ -1050,7 +1060,7 @@
 214
 00:13:55,160 --> 00:13:57,290
 跟我一起住 晚上用餐的时候我们可以好好聊聊
-{\fs11}You come with me. We'll have a little jaw over supper.{\r}
+{\fs11}You come with me. We'II have a little jaw over supper.{\r}
 
 215
 00:13:57,500 --> 00:13:59,790
@@ -1084,8 +1094,8 @@
 
 221
 00:14:16,060 --> 00:14:18,100
-真是不依不饶
-{\fs11}HlGGlNS: A reminder.{\r}
+希金斯：真是不依不饶
+{\fs11}HIGGINS: A reminder.{\r}
 
 222
 00:14:21,940 --> 00:14:23,060
@@ -1095,17 +1105,17 @@
 223
 00:14:23,270 --> 00:14:24,320
 你问什么有多少种？
-{\fs11}PlCKERlNG: How many what?{\r}
+{\fs11}PICKERING: How many what?{\r}
 
 224
 00:14:24,530 --> 00:14:25,570
-印度土语
-{\fs11}HlGGlNS: lndian dialects.{\r}
+希金斯：印度土语
+{\fs11}HIGGINS: lndian dialects.{\r}
 
 225
 00:14:25,780 --> 00:14:27,900
 不会少于
-{\fs11}PlCKERlNG: No fewer than 147 distinct languages{\r}
+{\fs11}PICKERING: No fewer than 147 distinct languages{\r}
 
 226
 00:14:28,110 --> 00:14:29,780
@@ -1124,7 +1134,7 @@
 
 229
 00:14:38,870 --> 00:14:40,420
-我们不该起身致意一下吗 先生们？
+男1：我们不该起身致意一下吗 先生们？
 {\fs11}MAN 1 : Shouldn't we stand up, gentlemen?{\r}
 
 230
@@ -1134,7 +1144,7 @@
 
 231
 00:14:43,540 --> 00:14:45,920
-你不一直想找个好管家吗 伊莱莎？
+你不一直想找个好管家吗 伊莉莎？
 {\fs11}Would you be looking for a good butler, Eliza?{\r}
 
 232
@@ -1145,7 +1155,7 @@
 233
 00:14:48,880 --> 00:14:53,300
 <i>这城里太无趣了 我想我得去趟巴黎</i>
-{\fs11}[SINGING] It's rather dull in town I think I'll take me to Paris{\r}
+{\fs11}[SINGING] It's rather dull in town I think I'II take me to Paris{\r}
 
 234
 00:14:54,720 --> 00:14:59,230
@@ -1159,6 +1169,7 @@
 
 236
 00:15:06,190 --> 00:15:09,530
+[合唱在声]
 {\fs11}[CHORUS HUMMING]{\r}
 
 237
@@ -1168,17 +1179,18 @@
 
 238
 00:15:16,040 --> 00:15:18,660
-你今年打算去哪儿 伊莱莎？比亚里茨？ <font color=#FF7F00>[比亚里茨 法国西南部城市]</font>
+你今年打算去哪儿 伊莉莎？比亚里茨？ <font color=#FF7F00>[比亚里茨 法国西南部城市]</font>
 {\fs11}Where you bound for this year, Eliza? Biarritz?{\r}
 
 239
 00:15:18,870 --> 00:15:20,160
+[男人在笑]
 {\fs11}[MEN LAUGHING]{\r}
 
 240
 00:15:20,370 --> 00:15:24,330
 <i>我所想要的只是一个这样的房间</i>
-{\fs11}[SINGING] All I want is a room somewhere{\r}
+{\fs11}[SINGING] AII I want is a room somewhere{\r}
 
 241
 00:15:24,540 --> 00:15:29,010
@@ -1256,8 +1268,8 @@
 
 256
 00:16:41,160 --> 00:16:45,000
-<i>我所想要的只是一个这样的房间</i>
-{\fs11}CHORUS: All I want is a room somewhere{\r}
+合唱：<i>我所想要的只是一个这样的房间</i>
+{\fs11}CHORUS: AII I want is a room somewhere{\r}
 
 257
 00:16:45,210 --> 00:16:49,540
@@ -1306,7 +1318,7 @@
 
 266
 00:17:29,790 --> 00:17:33,630
-<i>心爱的人将头枕在我的膝上</i>
+合唱：<i>心爱的人将头枕在我的膝上</i>
 {\fs11}CHORUS: Someone's head restin' on my knee{\r}
 
 267
@@ -1326,7 +1338,7 @@
 
 270
 00:17:48,230 --> 00:17:50,310
-<i>惬意</i>
+合唱：<i>惬意</i>
 {\fs11}CHORUS: Loverly{\r}
 
 271
@@ -1336,20 +1348,23 @@
 
 272
 00:17:52,860 --> 00:17:55,230
-<i>多么惬意啊！</i>
+合唱：<i>多么惬意啊！</i>
 {\fs11}CHORUS: Loverly{\r}
 
 273
 00:17:55,440 --> 00:17:58,530
-{\fs11}[CHORUS WHlSTLlNG]{\r}
+[合唱在吹口哨]
+{\fs11}[CHORUS WHISTLING]{\r}
 
 274
 00:18:08,370 --> 00:18:10,040
+[所有人都在笑]
 {\fs11}[ALL LAUGHING]{\r}
 
 275
 00:18:11,630 --> 00:18:16,050
-{\fs11}[CHORUS WHlSTLlNG]{\r}
+[合唱在吹口哨]
+{\fs11}[CHORUS WHISTLING]{\r}
 
 276
 00:18:39,070 --> 00:18:45,790
@@ -1358,7 +1373,7 @@
 
 277
 00:18:45,990 --> 00:18:48,330
-<i>惬意</i>
+合唱：<i>惬意</i>
 {\fs11}CHORUS: Loverly{\r}
 
 278
@@ -1368,7 +1383,7 @@
 
 279
 00:18:51,250 --> 00:18:53,960
-<i>多么惬意啊！</i>
+合唱：<i>多么惬意啊！</i>
 {\fs11}CHORUS: Loverly{\r}
 
 280
@@ -1378,7 +1393,7 @@
 
 281
 00:19:41,380 --> 00:19:45,300
-快走 阿尔菲 我们回去吧 这地方让我感觉很不好
+杰米：快走 阿尔菲 我们回去吧 这地方让我感觉很不好
 {\fs11}JAMIE: Come on, Alfie, let's go home now. This place is giving me the willies.{\r}
 
 282
@@ -1393,7 +1408,7 @@
 
 284
 00:19:48,890 --> 00:19:51,180
-我女儿伊莱莎就快回来了
+我女儿伊莉莎就快回来了
 {\fs11}My daughter, Eliza, will be along soon.{\r}
 
 285
@@ -1489,7 +1504,7 @@
 303
 00:20:33,980 --> 00:20:35,770
 我就抽出腰里的皮带好好教训她
-{\fs11}I'll take my belt off and give her what for.{\r}
+{\fs11}I'II take my belt off and give her what for.{\r}
 
 304
 00:20:35,980 --> 00:20:37,230
@@ -1498,7 +1513,7 @@
 
 305
 00:20:37,440 --> 00:20:39,190
-不过要要想从伊莱莎那儿要回那半个克朗的话
+不过要要想从伊莉莎那儿要回那半个克朗的话
 {\fs11}But you want that half a crown out of Eliza,{\r}
 
 306
@@ -1508,7 +1523,7 @@
 
 307
 00:20:41,320 --> 00:20:43,400
-就放心交给我吧 老弟
+阿尔菲（男）：就放心交给我吧 老弟
 {\fs11}ALFIE: Leave that to me, my boy.{\r}
 
 308
@@ -1523,7 +1538,7 @@
 
 310
 00:20:52,450 --> 00:20:53,790
-早上好 阿尔基农
+阿尔菲（男）：早上好 阿尔基农
 {\fs11}ALFIE: Good morning to you, Algernon.{\r}
 
 311
@@ -1533,7 +1548,7 @@
 
 312
 00:21:37,960 --> 00:21:39,080
-请进吧 请进
+男1：请进吧 请进
 {\fs11}MAN 1 : Move on, please. Come on.{\r}
 
 313
@@ -1548,7 +1563,7 @@
 
 315
 00:21:50,680 --> 00:21:52,890
-卖蔬菜 卖蔬菜了
+男2：卖蔬菜 卖蔬菜了
 {\fs11}MAN 2: Veggies. Get your veggies.{\r}
 
 316
@@ -1558,17 +1573,17 @@
 
 317
 00:22:03,900 --> 00:22:06,570
-新鲜的西班牙洋葱
+男3：新鲜的西班牙洋葱
 {\fs11}MAN 3: Lovely Spanish onion...{\r}
 
 318
 00:22:07,820 --> 00:22:09,860
-5镑...
+男4：5镑...
 {\fs11}MAN 4: Five pounds...{\r}
 
 319
 00:22:14,790 --> 00:22:16,410
-这确实是 新鲜的蔬菜
+男2：这确实是 新鲜的蔬菜
 {\fs11}MAN 2: This is it. Nice bunches of veggies.{\r}
 
 320
@@ -1578,17 +1593,17 @@
 
 321
 00:22:22,340 --> 00:22:24,800
-都来看啊 西红柿 菜园里新鲜的西红柿
+男5：都来看啊 西红柿 菜园里新鲜的西红柿
 {\fs11}MAN 5: Tomatoes over here. Nice garden tomatoes.{\r}
 
 322
 00:22:25,010 --> 00:22:26,340
-红得诱人啊
+女：红得诱人啊
 {\fs11}WOMAN: Very tempting.{\r}
 
 323
 00:22:26,550 --> 00:22:29,590
-噢 伊莱莎 没想到在这儿碰见你
+噢 伊莉莎 没想到在这儿碰见你
 {\fs11}Why, Eliza, what a surprise.{\r}
 
 324
@@ -1609,11 +1624,11 @@
 327
 00:22:38,440 --> 00:22:39,980
 我会找到她的
-{\fs11}I'll find her.{\r}
+{\fs11}I'II find her.{\r}
 
 328
 00:23:08,260 --> 00:23:09,880
-伊莱莎 没想到在这儿碰见你
+伊莉莎 没想到在这儿碰见你
 {\fs11}Eliza, what a surprise.{\r}
 
 329
@@ -1623,7 +1638,7 @@
 
 330
 00:23:11,890 --> 00:23:14,390
-噢 过来 伊莱莎
+噢 过来 伊莉莎
 {\fs11}Here, you come here, Eliza.{\r}
 
 331
@@ -1638,7 +1653,7 @@
 
 333
 00:23:25,820 --> 00:23:29,740
-伊莱莎 你怎么忍心把我赶回你继母那里去
+伊莉莎 你怎么忍心把我赶回你继母那里去
 {\fs11}Eliza, you wouldn't have the heart to send me home to your stepmother{\r}
 
 334
@@ -1658,7 +1673,7 @@
 
 337
 00:23:37,120 --> 00:23:40,330
-那是我自找的 我简直就是那个女人的奴隶 伊莱莎
+那是我自找的 我简直就是那个女人的奴隶 伊莉莎
 {\fs11}lt's me that suffers by it. I'm a slave to that woman, Eliza.{\r}
 
 338
@@ -1693,7 +1708,7 @@
 
 344
 00:23:58,560 --> 00:23:59,640
-谢谢 伊莱莎
+谢谢 伊莉莎
 {\fs11}Thank you, Eliza.{\r}
 
 345
@@ -1713,16 +1728,17 @@
 
 348
 00:24:10,820 --> 00:24:12,450
-你知道她是从哪儿来的吗？
+女1：你知道她是从哪儿来的吗？
 {\fs11}WOMAN 1 : Do you know where she's been?{\r}
 
 349
 00:24:12,650 --> 00:24:16,370
-当然 我认识她 韦恩一直在打听她
+女2：当然 我认识她 韦恩一直在打听她
 {\fs11}WOMAN 2: Yeah, I know. Wayne is always asking.{\r}
 
 350
 00:24:16,580 --> 00:24:18,240
+[聊天的声音]
 {\fs11}[CHATTERING]{\r}
 
 351
@@ -1732,17 +1748,18 @@
 
 352
 00:24:21,750 --> 00:24:23,620
-别来烦我
+女3：别来烦我
 {\fs11}WOMAN 3: Leave me alone.{\r}
 
 353
 00:24:24,460 --> 00:24:26,330
+[聊天的声音]
 {\fs11}[CHATTERING]{\r}
 
 354
 00:24:31,260 --> 00:24:33,220
-<i>你看见这个人 还有她那拙劣的英语了吗？</i>
-{\fs11}HlGGlNS: You see this creature with her curbstone English?{\r}
+希金斯：<i>你看见这个人 还有她那拙劣的英语了吗？</i>
+{\fs11}HIGGINS: You see this creature with her curbstone English?{\r}
 
 355
 00:24:33,430 --> 00:24:36,760
@@ -1766,8 +1783,8 @@
 
 359
 00:24:55,570 --> 00:24:59,700
-<i>你简直是玷污了这些高贵的塔式建筑</i>
-{\fs11}HlGGlNS: You disgrace to the noble architecture of these columns.{\r}
+希金斯：<i>你简直是玷污了这些高贵的塔式建筑</i>
+{\fs11}HIGGINS: You disgrace to the noble architecture of these columns.{\r}
 
 360
 00:25:05,540 --> 00:25:08,130
@@ -1781,6 +1798,7 @@
 
 362
 00:25:26,440 --> 00:25:28,730
+[不会翻译]
 {\fs11}[TUNING FORK HUMMING]{\r}
 
 363
@@ -1795,6 +1813,7 @@ E. U. A...
 
 365
 00:25:33,280 --> 00:25:36,780
+[哼着元音]
 {\fs11}[HUMMING VOWELS]{\r}
 
 366
@@ -1829,6 +1848,7 @@ E. U. A...
 
 372
 00:25:50,210 --> 00:26:11,020
+[希金斯在录元音]
 {\fs11}[HIGGINS HUMMING VOWELS ON RECORDING]{\r}
 
 373
@@ -1853,7 +1873,7 @@ E. U. A...
 
 377
 00:26:34,250 --> 00:26:37,510
-我是皮尔斯太太 是这儿的管家 有什么需要我效劳吗？
+皮尔斯：我是皮尔斯太太 是这儿的管家 有什么需要我效劳吗？
 {\fs11}PEARCE: I'm Mrs. Pearce, the housekeeper. Can I help you?{\r}
 
 378
@@ -1883,6 +1903,7 @@ E. U. A...
 
 383
 00:26:52,900 --> 00:26:58,030
+[希金斯在录元音]
 {\fs11}[HIGGINS HUMMING VOWELS ON RECORDING]{\r}
 
 384
@@ -1943,17 +1964,17 @@ E. U. A...
 395
 00:27:22,140 --> 00:27:24,930
 你真是走运 我让你看看是怎么录音的
-{\fs11}This is rather a bit of luck. I'll show you how I make records.{\r}
+{\fs11}This is rather a bit of luck. I'II show you how I make records.{\r}
 
 396
 00:27:25,140 --> 00:27:28,930
 我们让她说话 先把声音通过贝尔发明的声谱仪上
-{\fs11}We'll set her talking and then I'll take her down first in Bell's Visible Speech,{\r}
+{\fs11}We'II set her talking and then I'II take her down first in Bell's Visible Speech,{\r}
 
 397
 00:27:29,140 --> 00:27:32,140
 转成波形图 然后我们就能通过留声机听到她的声音
-{\fs11}then in Broad Romic, and then we'll get her on the phonograph{\r}
+{\fs11}then in Broad Romic, and then we'II get her on the phonograph{\r}
 
 398
 00:27:32,350 --> 00:27:34,400
@@ -2108,7 +2129,7 @@ E. U. A...
 428
 00:28:46,680 --> 00:28:48,260
 你为什么要这样做呢 小姑娘？
-{\fs11}PlCKERlNG: What do you want, my girl?{\r}
+{\fs11}PICKERING: What do you want, my girl?{\r}
 
 429
 00:28:51,020 --> 00:28:54,640
@@ -2192,7 +2213,7 @@ E. U. A...
 
 445
 00:29:34,640 --> 00:29:37,060
-伊莱莎 杜利特
+伊莉莎 杜利特
 {\fs11}Eliza Doolittle.{\r}
 
 446
@@ -2317,6 +2338,7 @@ E. U. A...
 
 470
 00:30:45,800 --> 00:30:47,510
+[停止了哭泣]
 {\fs11}[STOPS CRYING]{\r}
 
 471
@@ -2327,10 +2349,11 @@ E. U. A...
 472
 00:30:52,180 --> 00:30:54,850
 要是我真要教你 我会比两个爸爸还要厉害
-{\fs11}lf I decide to teach you, I'll be worse than two fathers to you.{\r}
+{\fs11}lf I decide to teach you, I'II be worse than two fathers to you.{\r}
 
 473
 00:30:55,060 --> 00:30:56,060
+[伊莉莎的鼻子吸气声]
 {\fs11}[ELIZA SNIFFLES]{\r}
 
 474
@@ -2396,17 +2419,17 @@ E. U. A...
 486
 00:31:23,630 --> 00:31:26,420
 如果你真能办到 我得说你就是这个世界上最伟大的老师
-{\fs11}I'll say you're the greatest teacher alive if you can make that good.{\r}
+{\fs11}I'II say you're the greatest teacher alive if you can make that good.{\r}
 
 487
 00:31:26,630 --> 00:31:30,380
 我打赌你办不到 否则这个试验的所有的费用由我承担
-{\fs11}I'll bet you all the expenses of the experiment that you can't do it.{\r}
+{\fs11}I'II bet you all the expenses of the experiment that you can't do it.{\r}
 
 488
 00:31:30,590 --> 00:31:32,510
 甚至连她的学费我也一并支付
-{\fs11}I'll even pay for the lessons.{\r}
+{\fs11}I'II even pay for the lessons.{\r}
 
 489
 00:31:32,720 --> 00:31:35,470
@@ -2441,17 +2464,17 @@ E. U. A...
 495
 00:31:49,150 --> 00:31:50,190
 我愿意同您打这个赌
-{\fs11}I'll take it.{\r}
+{\fs11}I'II take it.{\r}
 
 496
 00:31:50,400 --> 00:31:53,360
 我会将她从贫民区的邋遢女孩儿变为一位公爵夫人
-{\fs11}I'll make a duchess of this draggle-tailed guttersnipe.{\r}
+{\fs11}I'II make a duchess of this draggle-tailed guttersnipe.{\r}
 
 497
 00:31:53,570 --> 00:31:57,200
 今天就开始 现在 此时此刻起 皮尔斯太太 带她出去把她弄干净
-{\fs11}We'll start today. Now. This moment. Take her away and clean her.{\r}
+{\fs11}We'II start today. Now. This moment. Take her away and clean her.{\r}
 
 498
 00:31:57,410 --> 00:31:59,200
@@ -2511,7 +2534,7 @@ E. U. A...
 509
 00:32:24,810 --> 00:32:26,690
 我会叫警察的 我发誓
-{\fs11}I'll call the police, I will.{\r}
+{\fs11}I'II call the police, I will.{\r}
 
 510
 00:32:26,900 --> 00:32:28,440
@@ -2624,7 +2647,7 @@ E. U. A...
 
 532
 00:33:21,700 --> 00:33:24,080
-我以圣乔治之名起誓 伊莱莎
+我以圣乔治之名起誓 伊莉莎
 {\fs11}By George, Eliza.{\r}
 
 533
@@ -2655,7 +2678,7 @@ E. U. A...
 538
 00:33:40,350 --> 00:33:42,470
 那好 皮尔斯太太 别打电话订什么新衣服了
-{\fs11}All right, don't ring up and order those clothes.{\r}
+{\fs11}AII right, don't ring up and order those clothes.{\r}
 
 539
 00:33:42,680 --> 00:33:44,890
@@ -2700,12 +2723,12 @@ E. U. A...
 547
 00:33:58,530 --> 00:34:00,910
 她要钱干什么？她有的吃穿就够了
-{\fs11}What would she do with money? She'll have food and clothes.{\r}
+{\fs11}What would she do with money? She'II have food and clothes.{\r}
 
 548
 00:34:01,120 --> 00:34:02,700
 要是你给她钱 她就只会拿去喝酒
-{\fs11}She'll only drink if you give her money.{\r}
+{\fs11}She'II only drink if you give her money.{\r}
 
 549
 00:34:02,910 --> 00:34:04,200
@@ -2734,7 +2757,7 @@ E. U. A...
 
 554
 00:34:16,670 --> 00:34:17,720
-嗯 你有吗 伊莱莎？
+嗯 你有吗 伊莉莎？
 {\fs11}Well, have you, Eliza?{\r}
 
 555
@@ -2770,7 +2793,7 @@ E. U. A...
 561
 00:34:34,070 --> 00:34:37,150
 等我把她教完 我们就把她扔回去 之后就是她自己的事了
-{\fs11}When I'm done, we'll throw her back, then it will be her own business again.{\r}
+{\fs11}When I'm done, we'II throw her back, then it will be her own business again.{\r}
 
 562
 00:34:37,360 --> 00:34:38,650
@@ -2799,7 +2822,7 @@ E. U. A...
 
 567
 00:34:49,210 --> 00:34:51,460
-吃点儿巧克力吧 伊莱莎
+吃点儿巧克力吧 伊莉莎
 {\fs11}Have some chocolates, Eliza.{\r}
 
 568
@@ -2820,7 +2843,7 @@ E. U. A...
 571
 00:35:05,010 --> 00:35:07,220
 我吃一半
-{\fs11}I'll take one half{\r}
+{\fs11}I'II take one half{\r}
 
 572
 00:35:07,430 --> 00:35:09,480
@@ -2830,12 +2853,12 @@ E. U. A...
 573
 00:35:12,810 --> 00:35:15,860
 你可以得到很多盒的巧克力 每天都你都会得到好几筒
-{\fs11}You'll have boxes of them, barrels of them every day.{\r}
+{\fs11}You'II have boxes of them, barrels of them every day.{\r}
 
 574
 00:35:16,070 --> 00:35:18,400
 你可以拿它们当饭吃 嗯？
-{\fs11}You'll live on them, eh?{\r}
+{\fs11}You'II live on them, eh?{\r}
 
 575
 00:35:19,400 --> 00:35:21,200
@@ -2849,7 +2872,7 @@ E. U. A...
 
 577
 00:35:22,870 --> 00:35:23,910
-想想吧 伊莱莎
+想想吧 伊莉莎
 {\fs11}Think of it, Eliza.{\r}
 
 578
@@ -2889,12 +2912,12 @@ E. U. A...
 
 585
 00:35:46,260 --> 00:35:48,220
-嗯
-{\fs11}HlGGlNS: Mm.{\r}
+希金斯：嗯
+{\fs11}HIGGINS: Mm.{\r}
 
 586
 00:35:48,430 --> 00:35:51,770
-伊莱莎 今后的6个月你将待在这儿
+伊莉莎 今后的6个月你将待在这儿
 {\fs11}Eliza, you are to stay here for the next six months{\r}
 
 587
@@ -3009,7 +3032,7 @@ E. U. A...
 
 609
 00:37:05,890 --> 00:37:06,930
-跟我来吧 伊莱莎
+跟我来吧 伊莉莎
 {\fs11}Come with me, Eliza.{\r}
 
 610
@@ -3034,7 +3057,7 @@ E. U. A...
 
 614
 00:37:16,310 --> 00:37:19,270
-我要是不知道自己是为什么来的 我才不会来这儿呢
+伊莉莎：我要是不知道自己是为什么来的 我才不会来这儿呢
 {\fs11}ELIZA: lf I'd known what I was letting myself in for, I wouldn't have come here.{\r}
 
 615
@@ -3055,20 +3078,21 @@ E. U. A...
 618
 00:37:25,530 --> 00:37:27,910
 我要带她去任何地方 让她扮谁都行
-{\fs11}--I'll take her anywhere and I'll pass her off as anything.{\r}
+{\fs11}--I'II take her anywhere and I'II pass her off as anything.{\r}
 
 619
 00:37:28,120 --> 00:37:31,370
 我能将这个不幸的野丫头变成一位王后
-{\fs11}I'll make a queen of that barbarous wretch.{\r}
+{\fs11}I'II make a queen of that barbarous wretch.{\r}
 
 620
 00:37:32,290 --> 00:37:34,290
+[水流声]
 {\fs11}[WATER RUNNING]{\r}
 
 621
 00:37:37,880 --> 00:37:39,460
-我这辈子都没有洗过澡
+伊莉莎：我这辈子都没有洗过澡
 {\fs11}ELIZA: I've never had a bath in my life.{\r}
 
 622
@@ -3084,7 +3108,7 @@ E. U. A...
 624
 00:37:45,550 --> 00:37:49,050
 你就住这儿 这里就是你的卧室
-{\fs11}I'll have to put you in here. This will be your bedroom.{\r}
+{\fs11}I'II have to put you in here. This will be your bedroom.{\r}
 
 625
 00:37:52,560 --> 00:37:57,890
@@ -3108,7 +3132,7 @@ E. U. A...
 
 629
 00:38:12,290 --> 00:38:13,990
-这是我们自己洗澡的地方 伊莱莎
+这是我们自己洗澡的地方 伊莉莎
 {\fs11}This is where we wash ourselves, Eliza.{\r}
 
 630
@@ -3153,12 +3177,12 @@ E. U. A...
 
 638
 00:38:45,320 --> 00:38:46,990
-- 都过来帮忙 - 不 我不要
+皮尔斯：- 都过来帮忙 - 不 我不要
 {\fs11}PEARCE: Come out of that. - No, I won't.{\r}
 
 639
 00:38:47,190 --> 00:38:48,740
-- 都来帮忙啊 - 不！
+皮尔斯：- 都来帮忙啊 - 不！
 {\fs11}PEARCE: Everyone. - No!{\r}
 
 640
@@ -3178,20 +3202,22 @@ E. U. A...
 
 643
 00:38:55,040 --> 00:38:58,080
-- 不 我不要洗澡 让我走 伊莱莎 别动
+- 不 我不要洗澡 让我走 伊莉莎 别动
 {\fs11}- No, I won't. Let go. PEARCE: Eliza, keep still.{\r}
 
 644
 00:38:58,290 --> 00:39:02,500
+[伊莉莎在哭泣]
 {\fs11}[ELIZA CRYING]{\r}
 
 645
 00:39:05,590 --> 00:39:08,590
+[哭泣]
 {\fs11}[CRYING]{\r}
 
 646
 00:39:09,430 --> 00:39:10,590
-- 就洗个澡 - 不
+皮尔斯：- 就洗个澡 - 不
 {\fs11}PEARCE: Take a bath. - No!{\r}
 
 647
@@ -3206,12 +3232,12 @@ E. U. A...
 
 649
 00:39:15,100 --> 00:39:17,720
-噢 要是你不洗澡的话 他们不会喜欢你身上的味道的
+皮尔斯：噢 要是你不洗澡的话 他们不会喜欢你身上的味道的
 {\fs11}PEARCE: Well, they won't like the smell of you if you don't have a bath.{\r}
 
 650
 00:39:17,930 --> 00:39:20,730
-这不行 这太不像话了
+伊莉莎：这不行 这太不像话了
 {\fs11}ELIZA: lt ain't right. lt ain't decent.{\r}
 
 651
@@ -3221,26 +3247,27 @@ E. U. A...
 
 652
 00:39:23,110 --> 00:39:26,820
+[伊莉莎尖叫]
 {\fs11}[ELIZA SCREAMING]{\r}
 
 653
 00:39:27,030 --> 00:39:28,360
-把你的手拿开
+伊莉莎：把你的手拿开
 {\fs11}ELIZA: Take your hands off me.{\r}
 
 654
 00:39:28,570 --> 00:39:30,200
-过来吧
+皮尔斯：过来吧
 {\fs11}PEARCE: Come here.{\r}
 
 655
 00:39:30,400 --> 00:39:31,740
-- 不 - 我不会伤害你的
+伊莉莎：- 不 - 我不会伤害你的
 {\fs11}ELIZA: No. PEARCE: I won't hurt you.{\r}
 
 656
 00:39:31,950 --> 00:39:34,530
-让我走
+伊莉莎：让我走
 {\fs11}ELIZA: Let me go.{\r}
 
 657
@@ -3260,7 +3287,7 @@ E. U. A...
 
 660
 00:39:42,960 --> 00:39:45,750
-伊莱莎 我不会放手的
+皮尔斯：伊莉莎 我不会放手的
 {\fs11}PEARCE: Eliza, I won't have it.{\r}
 
 661
@@ -3396,7 +3423,7 @@ E. U. A...
 687
 00:41:11,090 --> 00:41:13,840
 <i>她会重新布置你的家 从地下室直到屋顶</i>
-{\fs11}She'll redecorate your home From the cellar to the dome{\r}
+{\fs11}She'II redecorate your home From the cellar to the dome{\r}
 
 688
 00:41:14,050 --> 00:41:17,930
@@ -3501,7 +3528,7 @@ E. U. A...
 708
 00:42:43,010 --> 00:42:44,430
 <i>她也会听得很认真</i>
-{\fs11}And she'll listen very nicely{\r}
+{\fs11}And she'II listen very nicely{\r}
 
 709
 00:42:44,640 --> 00:42:47,980
@@ -3596,7 +3623,7 @@ E. U. A...
 727
 00:44:04,850 --> 00:44:07,260
 <i>她有一个庞大 而喧闹的家族</i>
-{\fs11}She'll have a booming Boisterous family{\r}
+{\fs11}She'II have a booming Boisterous family{\r}
 
 728
 00:44:07,470 --> 00:44:10,140
@@ -3606,7 +3633,7 @@ E. U. A...
 729
 00:44:10,350 --> 00:44:15,480
 <i>她会有一个说话声音大得像唱瓦格纳歌剧的母亲 随便一声就能把玻璃都震碎</i>
-{\fs11}She'll have a large Wagnerian mother With a voice that shatters glass{\r}
+{\fs11}She'II have a large Wagnerian mother With a voice that shatters glass{\r}
 
 730
 00:44:15,690 --> 00:44:17,440
@@ -3615,6 +3642,7 @@ E. U. A...
 
 731
 00:44:17,650 --> 00:44:19,230
+[快速播放录音声]
 {\fs11}[RECORDED VOICE PLAYING ON FAST-FORWARD]{\r}
 
 732
@@ -3624,10 +3652,12 @@ E. U. A...
 
 733
 00:44:21,780 --> 00:44:31,160
+[快速播放录音声]
 {\fs11}[RECORDED VOICE PLAYING ON FAST-FORWARD]{\r}
 
 734
 00:44:34,040 --> 00:44:36,040
+[录音声停止]
 {\fs11}[RECORDED VOICES STOP]{\r}
 
 735
@@ -3637,7 +3667,7 @@ E. U. A...
 
 736
 00:44:47,970 --> 00:44:49,010
-滚出去
+男：滚出去
 {\fs11}MAN: Get out of here.{\r}
 
 737
@@ -3687,6 +3717,7 @@ E. U. A...
 
 746
 00:45:11,700 --> 00:45:12,950
+[笑声]
 {\fs11}[LAUGHS]{\r}
 
 747
@@ -3702,7 +3733,7 @@ E. U. A...
 749
 00:45:19,590 --> 00:45:22,050
 噢 别担心 伙计们 我们很快就不会这样了
-{\fs11}Oh, don't worry, boys. We'll get out of this somehow.{\r}
+{\fs11}Oh, don't worry, boys. We'II get out of this somehow.{\r}
 
 750
 00:45:22,260 --> 00:45:24,170
@@ -3742,7 +3773,7 @@ E. U. A...
 757
 00:45:45,780 --> 00:45:49,570
 <i>别人就会去做 那些不值得去做的工作</i>
-{\fs11}Someone else'll do The blinkin' work{\r}
+{\fs11}Someone else'II do The blinkin' work{\r}
 
 758
 00:45:49,780 --> 00:45:53,450
@@ -3752,7 +3783,7 @@ E. U. A...
 759
 00:45:53,660 --> 00:45:57,210
 <i>只要一点点的好运 你就永远都不需要工作</i>
-{\fs11}ALL [SlNGlNG]: With a little bit ofluck You'll never work{\r}
+{\fs11}ALL [SINGING]: With a little bit ofluck You'II never work{\r}
 
 760
 00:45:57,420 --> 00:46:00,960
@@ -3777,7 +3808,7 @@ E. U. A...
 764
 00:46:12,850 --> 00:46:16,640
 <i>当诱惑来临 你便立即屈服</i>
-{\fs11}When temptation comes You'll give right in{\r}
+{\fs11}When temptation comes You'II give right in{\r}
 
 765
 00:46:16,850 --> 00:46:20,440
@@ -3787,7 +3818,7 @@ E. U. A...
 766
 00:46:20,650 --> 00:46:23,980
 <i>只要一点点的好运 你便立即屈服</i>
-{\fs11}With a little bit of luck You'll give right in{\r}
+{\fs11}With a little bit of luck You'II give right in{\r}
 
 767
 00:46:24,190 --> 00:46:27,950
@@ -3797,7 +3828,7 @@ E. U. A...
 768
 00:46:28,160 --> 00:46:31,870
 <i>但只要一点点的好运 你就会胡作非为</i>
-{\fs11}But with a little bit of luck You'll run amuck{\r}
+{\fs11}But with a little bit of luck You'II run amuck{\r}
 
 769
 00:46:32,080 --> 00:46:35,540
@@ -3886,6 +3917,7 @@ E. U. A...
 
 786
 00:47:37,020 --> 00:47:38,850
+[乐队演奏]
 {\fs11}[BAND PLAYING]{\r}
 
 787
@@ -3905,12 +3937,12 @@ E. U. A...
 
 790
 00:47:50,320 --> 00:47:51,900
-你是个妇女参政运动的支持者 阿尔菲
+哈利：你是个妇女参政运动的支持者 阿尔菲
 {\fs11}HARRY: You make a good suffragette, Alfie.{\r}
 
 791
 00:47:52,110 --> 00:47:54,570
-噢 干你自己该干的去吧
+男：噢 干你自己该干的去吧
 {\fs11}MAN: Oh, get along with you.{\r}
 
 792
@@ -3925,7 +3957,7 @@ E. U. A...
 
 794
 00:48:05,880 --> 00:48:07,670
-你在伊莱莎的屋里做什么？
+你在伊莉莎的屋里做什么？
 {\fs11}What are you doing in Eliza's house?{\r}
 
 795
@@ -3945,7 +3977,7 @@ E. U. A...
 
 798
 00:48:15,220 --> 00:48:18,220
-- 你在说什么？ - 你女儿 伊莱莎
+- 你在说什么？ - 你女儿 伊莉莎
 {\fs11}- What are you talking about? - Your daughter, Eliza.{\r}
 
 799
@@ -3955,7 +3987,7 @@ E. U. A...
 
 800
 00:48:20,520 --> 00:48:22,140
-嗯 伊莱莎怎么了？
+嗯 伊莉莎怎么了？
 {\fs11}Well, what about Eliza?{\r}
 
 801
@@ -3965,11 +3997,12 @@ E. U. A...
 
 802
 00:48:26,400 --> 00:48:29,440
+[人们在笑]
 {\fs11}[PEOPLE LAUGHING]{\r}
 
 803
 00:48:29,650 --> 00:48:32,280
-伊莱莎穿得漂漂亮亮的回来过一次
+伊莉莎穿得漂漂亮亮的回来过一次
 {\fs11}Moved in with a swell, Eliza has.{\r}
 
 804
@@ -4004,6 +4037,7 @@ E. U. A...
 
 810
 00:48:49,250 --> 00:48:50,380
+[奥普金斯在笑]
 {\fs11}[HOPKINS LAUGH]{\r}
 
 811
@@ -4018,6 +4052,7 @@ E. U. A...
 
 813
 00:48:57,600 --> 00:48:59,100
+[阿尔菲（男）在笑]
 {\fs11}[ALFIE LAUGHS]{\r}
 
 814
@@ -4032,6 +4067,7 @@ E. U. A...
 
 816
 00:49:05,400 --> 00:49:07,810
+[所有人都在笑]
 {\fs11}[ALL LAUGHING]{\r}
 
 817
@@ -4072,7 +4108,7 @@ E. U. A...
 824
 00:49:32,920 --> 00:49:36,880
 <i>他们就会反过来 开始供养你</i>
-{\fs11}They'll go out And start supporting you{\r}
+{\fs11}They'II go out And start supporting you{\r}
 
 825
 00:49:37,090 --> 00:49:40,550
@@ -4082,7 +4118,7 @@ E. U. A...
 826
 00:49:40,760 --> 00:49:44,480
 <i>只要一点点的好运 他们就会替你工作</i>
-{\fs11}With a little bit of luck They'll work for you{\r}
+{\fs11}With a little bit of luck They'II work for you{\r}
 
 827
 00:49:44,690 --> 00:49:48,190
@@ -4096,6 +4132,7 @@ E. U. A...
 
 829
 00:49:52,940 --> 00:49:55,280
+[乐队演奏]
 {\fs11}[BAND PLAYING]{\r}
 
 830
@@ -4135,7 +4172,7 @@ E. U. A...
 
 837
 00:50:26,230 --> 00:50:28,390
-查理 过来 <i>只要一点点</i>
+男：查理 过来 <i>只要一点点</i>
 {\fs11}MAN: Charlie, over here. - With a little bit{\r}
 
 838
@@ -4160,7 +4197,7 @@ E. U. A...
 
 842
 00:50:53,710 --> 00:50:57,720
-A
+伊莉莎：A
 {\fs11}ELIZA: A.{\r}
 
 843
@@ -4170,6 +4207,7 @@ A
 
 844
 00:51:17,990 --> 00:51:19,780
+[大喷嚏]
 {\fs11}[SNEEZES]{\r}
 
 845
@@ -4200,7 +4238,7 @@ A!
 850
 00:51:47,310 --> 00:51:49,640
 您这样会把自己累坏的 要什么时候才能结束啊？
-{\fs11}You'll exhaust yourself. When will it stop?{\r}
+{\fs11}You'II exhaust yourself. When will it stop?{\r}
 
 851
 00:51:49,850 --> 00:51:51,690
@@ -4240,12 +4278,12 @@ A!
 858
 00:52:02,950 --> 00:52:04,740
 - 您总得给个答复吧 - 好吧
-{\fs11}- You should at least answer it. - All right.{\r}
+{\fs11}- You should at least answer it. - AII right.{\r}
 
 859
 00:52:04,950 --> 00:52:07,620
 把它放在桌子上吧 皮尔斯太太 我会试着给他回信的
-{\fs11}Leave it on the desk, Mrs. Pearce. I'll try and get to it.{\r}
+{\fs11}Leave it on the desk, Mrs. Pearce. I'II try and get to it.{\r}
 
 860
 00:52:10,330 --> 00:52:12,920
@@ -4265,7 +4303,7 @@ A!
 863
 00:52:18,130 --> 00:52:20,010
 我早就跟你说过
-{\fs11}PlCKERlNG: I say.{\r}
+{\fs11}PICKERING: I say.{\r}
 
 864
 00:52:20,220 --> 00:52:21,670
@@ -4275,7 +4313,7 @@ A!
 865
 00:52:21,880 --> 00:52:24,050
 他也许不是个无赖 希金斯
-{\fs11}PlCKERlNG: He may not be a blackguard, Higgins.{\r}
+{\fs11}PICKERING: He may not be a blackguard, Higgins.{\r}
 
 866
 00:52:24,260 --> 00:52:26,390
@@ -4285,7 +4323,7 @@ A!
 867
 00:52:26,600 --> 00:52:29,720
 不管他是不是 我恐怕他会给我们找麻烦的
-{\fs11}Whether he is or not, I'm afraid we'll have some trouble with him.{\r}
+{\fs11}Whether he is or not, I'm afraid we'II have some trouble with him.{\r}
 
 868
 00:52:29,930 --> 00:52:30,980
@@ -4295,7 +4333,7 @@ A!
 869
 00:52:31,180 --> 00:52:34,310
 即便有什么麻烦 那也是我找他麻烦 而不是他找我
-{\fs11}Any trouble to be had, he'll have it with me, not I with him.{\r}
+{\fs11}Any trouble to be had, he'II have it with me, not I with him.{\r}
 
 870
 00:52:37,150 --> 00:52:39,320
@@ -4309,8 +4347,8 @@ A!
 
 872
 00:52:46,370 --> 00:52:48,030
-过来吧
-{\fs11}HlGGlNS: Here.{\r}
+希金斯：过来吧
+{\fs11}HIGGINS: Here.{\r}
 
 873
 00:52:48,240 --> 00:52:49,790
@@ -4435,7 +4473,7 @@ A!
 897
 00:53:52,310 --> 00:53:55,940
 让旁边的这位绅士来评评理 我哪怕有一个字提到钱了吗？
-{\fs11}I'll leave it to this gentleman here. Have I said a word about money?{\r}
+{\fs11}I'II leave it to this gentleman here. Have I said a word about money?{\r}
 
 898
 00:53:56,140 --> 00:53:57,940
@@ -4459,6 +4497,7 @@ A!
 
 902
 00:54:04,610 --> 00:54:06,700
+[笑声]
 {\fs11}[LAUGHS]{\r}
 
 903
@@ -4518,7 +4557,7 @@ A!
 
 914
 00:54:39,350 --> 00:54:41,980
-要不是你把她送来的你怎么知道伊莱莎在这儿？
+要不是你把她送来的你怎么知道伊莉莎在这儿？
 {\fs11}How did you know Eliza was here if you didn't send her?{\r}
 
 915
@@ -4563,7 +4602,7 @@ A!
 
 923
 00:55:02,790 --> 00:55:05,750
-皮尔斯太太 伊莱莎的父亲要带她走了
+皮尔斯太太 伊莉莎的父亲要带她走了
 {\fs11}Mrs. Pearce, Eliza's father has come to take her away.{\r}
 
 924
@@ -4603,6 +4642,7 @@ A!
 
 931
 00:55:26,280 --> 00:55:27,860
+[笑声]
 {\fs11}[LAUGHS]{\r}
 
 932
@@ -4618,7 +4658,7 @@ A!
 934
 00:55:35,910 --> 00:55:38,250
 我所要求的不过是一位父亲正当的权利
-{\fs11}All I ask is my rights as a father.{\r}
+{\fs11}AII I ask is my rights as a father.{\r}
 
 935
 00:55:38,460 --> 00:55:42,170
@@ -4637,7 +4677,7 @@ A!
 
 938
 00:55:48,880 --> 00:55:51,550
-我的伊莱莎总值这个价吧？
+我的伊莉莎总值这个价吧？
 {\fs11}And what's Eliza to me?{\r}
 
 939
@@ -4687,7 +4727,7 @@ A!
 
 948
 00:56:14,620 --> 00:56:17,450
-但既然伊莱莎可以得到一些好处的话
+但既然伊莉莎可以得到一些好处的话
 {\fs11}But if Eliza is gonna have a bit out of this,{\r}
 
 949
@@ -4848,7 +4888,7 @@ A!
 980
 00:57:49,170 --> 00:57:51,130
 我恐怕他不会拿去好好用的
-{\fs11}He'll make bad use of it, I'm afraid.{\r}
+{\fs11}He'II make bad use of it, I'm afraid.{\r}
 
 981
 00:57:51,340 --> 00:57:53,260
@@ -4912,7 +4952,7 @@ A!
 
 993
 00:58:24,830 --> 00:58:27,790
-毕竟 婚姻没那么可怕吧 你之前也同伊莱莎的母亲结过婚
+毕竟 婚姻没那么可怕吧 你之前也同伊莉莎的母亲结过婚
 {\fs11}After all, marriage isn't so frightening. You married Eliza's mother.{\r}
 
 994
@@ -4957,12 +4997,12 @@ A!
 
 1002
 00:58:50,440 --> 00:58:53,070
-我再也不要念这些该死的元音了
+伊莉莎：我再也不要念这些该死的元音了
 {\fs11}ELIZA: I won't say those ruddy vowels one more time.{\r}
 
 1003
 00:58:53,270 --> 00:58:55,070
-啊 是伊莱莎
+啊 是伊莉莎
 {\fs11}Blimey, it's Eliza.{\r}
 
 1004
@@ -5012,7 +5052,7 @@ A!
 
 1013
 00:59:15,210 --> 00:59:17,510
-- 加油 伊莱莎 - 啊!
+- 加油 伊莉莎 - 啊!
 {\fs11}- Cheerio, Eliza. - Mah!{\r}
 
 1014
@@ -5118,7 +5158,7 @@ A!
 1034
 01:00:02,340 --> 01:00:04,970
 现在起 别理她 否则就会转而向你寻求同情
-{\fs11}Now, leave her alone or she'll be turning to you for sympathy.{\r}
+{\fs11}Now, leave her alone or she'II be turning to you for sympathy.{\r}
 
 1035
 01:00:05,180 --> 01:00:08,220
@@ -5147,18 +5187,18 @@ A!
 
 1040
 01:00:20,280 --> 01:00:21,360
-伊莱莎
+伊莉莎
 {\fs11}Eliza.{\r}
 
 1041
 01:00:21,570 --> 01:00:25,450
 我向你保证 今天之内你必须把你的元音念正确
-{\fs11}I promise you, you'll say your vowels correctly before this day is out{\r}
+{\fs11}I promise you, you'II say your vowels correctly before this day is out{\r}
 
 1042
 01:00:25,660 --> 01:00:28,040
 否则就没有午餐 没有晚餐
-{\fs11}or there'll be no lunch, no dinner{\r}
+{\fs11}or there'II be no lunch, no dinner{\r}
 
 1043
 01:00:28,240 --> 01:00:31,160
@@ -5173,12 +5213,12 @@ A!
 1045
 01:00:45,890 --> 01:00:50,180
 <i>你会后悔的 可到那时就算你哭得一塌糊涂也太晚了</i>
-{\fs11}You'll be sorry But your tears will be too late{\r}
+{\fs11}You'II be sorry But your tears will be too late{\r}
 
 1046
 01:00:50,390 --> 01:00:52,520
 <i>等你破产了 而我有钱了</i>
-{\fs11}You'll be broke And I'll have money{\r}
+{\fs11}You'II be broke And I'II have money{\r}
 
 1047
 01:00:52,730 --> 01:00:54,810
@@ -5203,7 +5243,7 @@ A!
 1051
 01:01:08,450 --> 01:01:12,910
 <i>我会马上出发 直奔剧院</i>
-{\fs11}I'll be off a second later And go straight to the theatre{\r}
+{\fs11}I'II be off a second later And go straight to the theatre{\r}
 
 1052
 01:01:13,120 --> 01:01:17,380
@@ -5238,7 +5278,7 @@ A!
 1058
 01:01:37,060 --> 01:01:39,190
 <i>我会穿好衣服回城去</i>
-{\fs11}I'll get dressed and go to town{\r}
+{\fs11}I'II get dressed and go to town{\r}
 
 1059
 01:01:39,400 --> 01:01:44,070
@@ -5253,12 +5293,12 @@ A!
 1061
 01:01:50,830 --> 01:01:53,700
 <i>有一天我会成为贵妇</i>
-{\fs11}One day I'll be famous{\r}
+{\fs11}One day I'II be famous{\r}
 
 1062
 01:01:53,910 --> 01:01:56,250
 <i>言行举止适当又高贵</i>
-{\fs11}I'll be proper and prim{\r}
+{\fs11}I'II be proper and prim{\r}
 
 1063
 01:01:56,460 --> 01:01:58,750
@@ -5303,7 +5343,7 @@ A!
 1071
 01:02:24,190 --> 01:02:28,990
 <i>所有的人都会赞美 你的荣耀</i>
-{\fs11}All the people will celebrate The glory of you{\r}
+{\fs11}AII the people will celebrate The glory of you{\r}
 
 1072
 01:02:29,200 --> 01:02:34,870
@@ -5333,7 +5373,7 @@ A!
 1077
 01:02:56,230 --> 01:03:01,020
 <i>然后他们就押着你 亨利 希金斯 走到墙边</i>
-{\fs11}Then they'll march you, Henry Higgins To the wall{\r}
+{\fs11}Then they'II march you, Henry Higgins To the wall{\r}
 
 1078
 01:03:01,230 --> 01:03:05,820
@@ -5348,7 +5388,7 @@ A!
 1080
 01:03:09,160 --> 01:03:12,870
 <i>我开始喊 准备 瞄准 开火</i>
-{\fs11}I'll shout, "Ready, aim, fire"{\r}
+{\fs11}I'II shout, "Ready, aim, fire"{\r}
 
 1081
 01:03:14,870 --> 01:03:17,040
@@ -5358,7 +5398,7 @@ A!
 1082
 01:03:17,250 --> 01:03:20,000
 <i>下地狱去吧 亨利 希金斯</i>
-{\fs11}Down you'll go, Henry Higgins{\r}
+{\fs11}Down you'II go, Henry Higgins{\r}
 
 1083
 01:03:20,210 --> 01:03:23,750
@@ -5372,8 +5412,8 @@ A
 
 1085
 01:04:02,380 --> 01:04:05,210
-好了 伊莱莎 再念一遍
-{\fs11}All right, Eliza, say it again.{\r}
+好了 伊莉莎 再念一遍
+{\fs11}AII right, Eliza, say it again.{\r}
 
 1086
 01:04:05,420 --> 01:04:10,880
@@ -5382,6 +5422,7 @@ A
 
 1087
 01:04:11,090 --> 01:04:12,380
+[希金斯叹息]
 {\fs11}[HIGGINS SIGHS]{\r}
 
 1088
@@ -5396,7 +5437,7 @@ A
 
 1090
 01:04:17,600 --> 01:04:19,020
-不 伊莱莎 你没有那么“说”
+不 伊莉莎 你没有那么“说”
 {\fs11}No, Eliza, you didn't "say" that.{\r}
 
 1091
@@ -5422,7 +5463,7 @@ A
 1095
 01:04:31,280 --> 01:04:36,030
 如果你不打算冒犯主的耳朵 你就会练得更好
-{\fs11}You'll get much further with the Lord if you learn not to offend his ears.{\r}
+{\fs11}You'II get much further with the Lord if you learn not to offend his ears.{\r}
 
 1096
 01:04:36,240 --> 01:04:38,620
@@ -5446,7 +5487,7 @@ A
 
 1100
 01:04:46,380 --> 01:04:48,960
-过来 伊莱莎 看仔细了
+过来 伊莉莎 看仔细了
 {\fs11}Come here, Eliza, and watch closely.{\r}
 
 1101
@@ -5477,7 +5518,7 @@ A
 1106
 01:05:01,640 --> 01:05:03,690
 这样你就知道你有没有念对了
-{\fs11}That's how you'll know if you've done it correctly.{\r}
+{\fs11}That's how you'II know if you've done it correctly.{\r}
 
 1107
 01:05:03,900 --> 01:05:05,600
@@ -5606,7 +5647,8 @@ A
 
 1132
 01:06:18,640 --> 01:06:20,140
-{\fs11}[HIGGINS SNlFFlNG]{\r}
+[希金斯用鼻子吸气]
+{\fs11}[HIGGINS SNIFFING]{\r}
 
 1133
 01:06:25,940 --> 01:06:26,980
@@ -5626,7 +5668,7 @@ A
 1136
 01:06:31,440 --> 01:06:34,320
 <i>可怜的希金斯教授</i>
-{\fs11}SERVANTS [SlNGlNG]: Poor Professor Higgins{\r}
+{\fs11}SERVANTS [SINGING]: Poor Professor Higgins{\r}
 
 1137
 01:06:34,860 --> 01:06:38,530
@@ -5651,7 +5693,7 @@ A
 1141
 01:06:49,040 --> 01:06:50,880
 <i>整天</i>
-{\fs11}All day long{\r}
+{\fs11}AII day long{\r}
 
 1142
 01:06:51,090 --> 01:06:53,130
@@ -5680,7 +5722,7 @@ A
 
 1147
 01:07:09,060 --> 01:07:10,350
-再来一遍 伊莱莎
+再来一遍 伊莉莎
 {\fs11}Again, Eliza.{\r}
 
 1148
@@ -5750,6 +5792,7 @@ A
 
 1161
 01:07:49,520 --> 01:07:50,560
+[叹息]
 {\fs11}[SIGHS]{\r}
 
 1162
@@ -5764,7 +5807,7 @@ A
 
 1164
 01:07:55,650 --> 01:07:56,780
-再来 伊莱莎
+再来 伊莉莎
 {\fs11}Again, Eliza.{\r}
 
 1165
@@ -5820,7 +5863,7 @@ A
 1175
 01:08:18,710 --> 01:08:21,130
 天呐 希金斯 这茶真好喝
-{\fs11}PlCKERlNG: By Jove, Higgins, that was a glorious tea.{\r}
+{\fs11}PICKERING: By Jove, Higgins, that was a glorious tea.{\r}
 
 1176
 01:08:21,340 --> 01:08:23,220
@@ -5844,7 +5887,8 @@ A
 
 1180
 01:08:34,560 --> 01:08:36,520
-{\fs11}[HIGGINS CHlRPlNG]{\r}
+[希金斯在叫]
+{\fs11}[HIGGINS CHIRPING]{\r}
 
 1181
 01:08:37,230 --> 01:08:39,070
@@ -5854,7 +5898,7 @@ A
 1182
 01:08:41,990 --> 01:08:45,570
 <i>可怜的希金斯教授</i>
-{\fs11}SERVANTS [SlNGlNG]: Poor Professor Higgins{\r}
+{\fs11}SERVANTS [SINGING]: Poor Professor Higgins{\r}
 
 1183
 01:08:45,780 --> 01:08:49,870
@@ -5954,7 +5998,7 @@ A
 1202
 01:09:47,760 --> 01:09:50,810
 我说 希金斯 有必要放这些石子吗？
-{\fs11}PlCKERlNG: I say, Higgins, are those pebbles really necessary?{\r}
+{\fs11}PICKERING: I say, Higgins, are those pebbles really necessary?{\r}
 
 1203
 01:09:51,020 --> 01:09:52,640
@@ -5963,12 +6007,12 @@ A
 
 1204
 01:09:52,850 --> 01:09:55,440
-那伊莱莎 杜利特也要这样练
+那伊莉莎 杜利特也要这样练
 {\fs11}they are necessary for Eliza Doolittle.{\r}
 
 1205
 01:09:55,640 --> 01:09:57,100
-继续 伊莱莎
+继续 伊莉莎
 {\fs11}Go on, Eliza.{\r}
 
 1206
@@ -5999,7 +6043,7 @@ A
 1211
 01:10:13,790 --> 01:10:16,410
 希金斯 也许那首诗对于这姑娘来说有点儿太难了
-{\fs11}PlCKERlNG: Higgins, perhaps that poem is a little too difficult for the girl.{\r}
+{\fs11}PICKERING: Higgins, perhaps that poem is a little too difficult for the girl.{\r}
 
 1212
 01:10:16,620 --> 01:10:19,830
@@ -6018,6 +6062,7 @@ A
 
 1215
 01:10:25,880 --> 01:10:27,260
+[大口喝水]
 {\fs11}[GULPS]{\r}
 
 1216
@@ -6043,7 +6088,7 @@ A
 1220
 01:10:40,270 --> 01:10:43,900
 <i>放弃吧 希金斯教授</i>
-{\fs11}SERVANTS [SlNGlNG]: Quit, Professor Higgins{\r}
+{\fs11}SERVANTS [SINGING]: Quit, Professor Higgins{\r}
 
 1221
 01:10:44,110 --> 01:10:47,820
@@ -6127,7 +6172,7 @@ A
 
 1237
 01:11:40,620 --> 01:11:42,000
-伊莱莎
+伊莉莎
 {\fs11}Eliza,{\r}
 
 1238
@@ -6192,7 +6237,7 @@ A
 
 1250
 01:12:28,340 --> 01:12:32,800
-而那就是你自己所要征服的 伊莱莎
+而那就是你自己所要征服的 伊莉莎
 {\fs11}And that's what you've set yourself out to conquer, Eliza.{\r}
 
 1251
@@ -6202,6 +6247,7 @@ A
 
 1252
 01:12:42,850 --> 01:12:44,480
+[叹息]
 {\fs11}[SIGHS]{\r}
 
 1253
@@ -6282,7 +6328,7 @@ A
 1268
 01:14:11,820 --> 01:14:16,320
 <i>西班牙的雨 大都降在平原上</i>
-{\fs11}ALL [SlNGlNG]: The rain in Spain Stays mainly in the plain{\r}
+{\fs11}ALL [SINGING]: The rain in Spain Stays mainly in the plain{\r}
 
 1269
 01:14:16,530 --> 01:14:17,950
@@ -6336,6 +6382,7 @@ A
 
 1279
 01:14:54,360 --> 01:14:55,940
+[大家的笑声]
 {\fs11}[ALL LAUGH]{\r}
 
 1280
@@ -6345,6 +6392,7 @@ A
 
 1281
 01:15:00,780 --> 01:15:02,030
+[希金斯在笑]
 {\fs11}[HIGGINS LAUGH]{\r}
 
 1282
@@ -6354,6 +6402,7 @@ A
 
 1283
 01:15:06,210 --> 01:15:08,540
+[希金斯和伊莉莎在笑]
 {\fs11}[HIGGINS & ELIZA LAUGHING]{\r}
 
 1284
@@ -6363,6 +6412,7 @@ A
 
 1285
 01:15:12,590 --> 01:15:15,460
+[希金斯在哼]
 {\fs11}[HIGGINS HUMMING]{\r}
 
 1286
@@ -6372,26 +6422,28 @@ A
 
 1287
 01:15:29,600 --> 01:15:32,520
-呵！嘿！
-{\fs11}HlGGlNS: Ho! Hey!{\r}
+希金斯：呵！嘿！
+{\fs11}HIGGINS: Ho! Hey!{\r}
 
 1288
 01:15:34,690 --> 01:15:36,820
+[所有人都在笑]
 {\fs11}[ALL LAUGHING]{\r}
 
 1289
 01:15:38,820 --> 01:15:40,660
-<i>噢嘞</i>
+所有人：<i>噢嘞</i>
 {\fs11}ALL: OIé!{\r}
 
 1290
 01:15:40,860 --> 01:15:42,660
+[所有人都在笑]
 {\fs11}[ALL LAUGHING]{\r}
 
 1291
 01:15:42,870 --> 01:15:43,910
 噢 天呐
-{\fs11}PlCKERlNG: Oh, dear.{\r}
+{\fs11}PICKERING: Oh, dear.{\r}
 
 1292
 01:15:44,120 --> 01:15:46,950
@@ -6451,12 +6503,12 @@ A
 1303
 01:16:11,560 --> 01:16:13,600
 - 我想到了 我们带她去赛马会 - 赛马会？
-{\fs11}- I know. We'll take her to the races. PlCKERlNG: The races?{\r}
+{\fs11}- I know. We'II take her to the races. PICKERING: The races?{\r}
 
 1304
 01:16:13,810 --> 01:16:17,530
 - 我母亲在阿斯科特赛马会有一个包厢 - 你是不是还是先同你母亲商量一下？
-{\fs11}- My mother's box at Ascot. - You'll consult your mother first?{\r}
+{\fs11}- My mother's box at Ascot. - You'II consult your mother first?{\r}
 
 1305
 01:16:17,730 --> 01:16:19,360
@@ -6471,16 +6523,16 @@ A
 1307
 01:16:24,910 --> 01:16:27,620
 明天早上第一件事 我们要出去给她买身衣服
-{\fs11}First thing in the morning, we'll go out and we'll buy her a dress.{\r}
+{\fs11}First thing in the morning, we'II go out and we'II buy her a dress.{\r}
 
 1308
 01:16:27,830 --> 01:16:29,500
-现在你继续练 伊莱莎
+现在你继续练 伊莉莎
 {\fs11}Now get on with your work, Eliza.{\r}
 
 1309
 01:16:29,710 --> 01:16:31,750
-不过 希金斯先生 现在已经是凌晨了
+皮尔斯：不过 希金斯先生 现在已经是凌晨了
 {\fs11}PEARCE: But, Mr. Higgins, it's early in the morning.{\r}
 
 1310
@@ -6530,6 +6582,7 @@ A
 
 1319
 01:16:58,110 --> 01:16:59,360
+[皮克林的笑声]
 {\fs11}[PICKERING LAUGHS]{\r}
 
 1320
@@ -6544,7 +6597,7 @@ A
 
 1322
 01:17:04,820 --> 01:17:06,910
-伊莱莎 我不管希金斯先生怎么说
+伊莉莎 我不管希金斯先生怎么说
 {\fs11}Eliza, I don't care what Mr. Higgins says,{\r}
 
 1323
@@ -6600,7 +6653,7 @@ A
 1333
 01:17:54,500 --> 01:18:00,920
 <i>我永远都不会知道 是什么让我如此兴奋</i>
-{\fs11}I'll never know What made it so exciting{\r}
+{\fs11}I'II never know What made it so exciting{\r}
 
 1334
 01:18:01,130 --> 01:18:07,130
@@ -6625,17 +6678,17 @@ A
 1338
 01:18:21,360 --> 01:18:25,150
 <i>一整晚</i>
-{\fs11}All night{\r}
+{\fs11}AII night{\r}
 
 1339
 01:18:37,000 --> 01:18:39,040
 <i>现在都3：00过了</i>
-{\fs11}SERVANT 1 [SlNGlNG]: lt's after 3 now{\r}
+{\fs11}SERVANT 1 [SINGING]: lt's after 3 now{\r}
 
 1340
 01:18:39,250 --> 01:18:41,380
 <i>你不认为现在</i>
-{\fs11}SERVANT 2 [SlNGlNG]: Don't you agree now{\r}
+{\fs11}SERVANT 2 [SINGING]: Don't you agree now{\r}
 
 1341
 01:18:41,590 --> 01:18:45,460
@@ -6644,13 +6697,13 @@ A
 
 1342
 01:18:46,470 --> 01:18:48,430
-<i>- 我可以一直跳啊 - 你已经累坏了</i>
+伊莉莎：<i>- 我可以一直跳啊 - 你已经累坏了</i>
 {\fs11}ELIZA: I could have danced - You're tired out{\r}
 
 1343
 01:18:48,640 --> 01:18:49,840
-<i>- 一整晚 - 你必须得去睡觉</i>
-{\fs11}ELIZA: All night - You must be dead{\r}
+伊莉莎：<i>- 一整晚 - 你必须得去睡觉</i>
+{\fs11}ELIZA: AII night - You must be dead{\r}
 
 1344
 01:18:50,050 --> 01:18:51,720
@@ -6660,7 +6713,7 @@ A
 1345
 01:18:51,930 --> 01:18:53,140
 <i>- 一整晚 - 你的眼睛通红</i>
-{\fs11}- All night - Your eyes are red{\r}
+{\fs11}- AII night - Your eyes are red{\r}
 
 1346
 01:18:53,350 --> 01:18:55,520
@@ -6705,12 +6758,12 @@ A
 1354
 01:19:10,370 --> 01:19:12,320
 <i>你会着凉的</i>
-{\fs11}You'll catch a cold{\r}
+{\fs11}You'II catch a cold{\r}
 
 1355
 01:19:12,530 --> 01:19:19,210
 <i>我永远都不会知道 是什么让我如此兴奋</i>
-{\fs11}I'll never know What made it so exciting{\r}
+{\fs11}I'II never know What made it so exciting{\r}
 
 1356
 01:19:19,420 --> 01:19:25,630
@@ -6745,7 +6798,7 @@ A
 1362
 01:19:40,230 --> 01:19:42,400
 <i>一整晚</i>
-{\fs11}All night{\r}
+{\fs11}AII night{\r}
 
 1363
 01:19:42,610 --> 01:19:44,690
@@ -6790,7 +6843,7 @@ A
 1371
 01:20:24,480 --> 01:20:30,860
 <i>我永远都不会知道 是什么让我如此兴奋</i>
-{\fs11}I'll never know What made it so exciting{\r}
+{\fs11}I'II never know What made it so exciting{\r}
 
 1372
 01:20:31,070 --> 01:20:36,990
@@ -6815,12 +6868,12 @@ A
 1376
 01:20:51,090 --> 01:20:57,350
 <i>一整晚</i>
-{\fs11}All night{\r}
+{\fs11}AII night{\r}
 
 1377
 01:21:36,510 --> 01:21:40,310
 <i>所有的公爵 伯爵 还有贵族都在这里</i>
-{\fs11}ALL [SlNGlNG]: Every duke and earl And peer is here{\r}
+{\fs11}ALL [SINGING]: Every duke and earl And peer is here{\r}
 
 1378
 01:21:40,520 --> 01:21:44,390
@@ -6885,7 +6938,7 @@ A
 1390
 01:22:26,140 --> 01:22:27,900
 <i>比赛马上就要开始</i>
-{\fs11}They'll begin to run{\r}
+{\fs11}They'II begin to run{\r}
 
 1391
 01:22:28,100 --> 01:22:29,610
@@ -6904,6 +6957,7 @@ A
 
 1394
 01:22:37,030 --> 01:22:41,240
+[万马奔腾]
 {\fs11}[HORSES GALLOPING]{\r}
 
 1395
@@ -6928,7 +6982,7 @@ A
 
 1399
 01:24:35,110 --> 01:24:37,230
-噢 不 不 这是真的
+女1：噢 不 不 这是真的
 {\fs11}WOMAN 1 : Oh, no. No, it's true.{\r}
 
 1400
@@ -6938,7 +6992,7 @@ A
 
 1401
 01:24:39,110 --> 01:24:40,690
-是的
+女2：是的
 {\fs11}WOMAN 2: Yes.{\r}
 
 1402
@@ -6948,7 +7002,7 @@ A
 
 1403
 01:24:42,780 --> 01:24:44,240
-他们有的是时间
+女4：他们有的是时间
 {\fs11}WOMAN 4: They've had enough time.{\r}
 
 1404
@@ -6958,8 +7012,8 @@ A
 
 1405
 01:24:45,950 --> 01:24:47,030
-母亲
-{\fs11}HlGGlNS: Mother.{\r}
+希金斯：母亲
+{\fs11}HIGGINS: Mother.{\r}
 
 1406
 01:24:49,040 --> 01:24:51,250
@@ -7044,7 +7098,7 @@ A
 1422
 01:25:24,910 --> 01:25:26,990
 - 普通的卖花女？ - 完全没错
-{\fs11}- Common flower girl? - She'll be all right.{\r}
+{\fs11}- Common flower girl? - She'II be all right.{\r}
 
 1423
 01:25:27,200 --> 01:25:28,620
@@ -7074,7 +7128,7 @@ A
 1428
 01:25:37,670 --> 01:25:39,460
 你去陪她吧 亲爱的 有你在不会有问题的
-{\fs11}Help her along, darling. You'll be quite safe.{\r}
+{\fs11}Help her along, darling. You'II be quite safe.{\r}
 
 1429
 01:25:39,670 --> 01:25:41,960
@@ -7109,7 +7163,7 @@ A
 1435
 01:25:54,520 --> 01:25:58,560
 - 埃恩斯福德-希尔太太 - 下午好 希金斯夫人
-{\fs11}MRS. HlGGlNS: Mrs. Eynsford-Hill. - Good afternoon, Mrs. Higgins.{\r}
+{\fs11}MRS. HIGGINS: Mrs. Eynsford-Hill. - Good afternoon, Mrs. Higgins.{\r}
 
 1436
 01:25:58,770 --> 01:26:00,110
@@ -7144,7 +7198,7 @@ A
 1442
 01:26:47,950 --> 01:26:49,820
 皮克林上校 您正好赶上喝茶
-{\fs11}MRS. HlGGlNS: Colonel Pickering, you're just in time for tea.{\r}
+{\fs11}MRS. HIGGINS: Colonel Pickering, you're just in time for tea.{\r}
 
 1443
 01:26:50,030 --> 01:26:51,120
@@ -7153,13 +7207,13 @@ A
 
 1444
 01:26:51,330 --> 01:26:53,160
-我能向您介绍一下伊莱莎 杜利特小姐吗？
+我能向您介绍一下伊莉莎 杜利特小姐吗？
 {\fs11}May I introduce Miss Eliza Doolittle?{\r}
 
 1445
 01:26:53,370 --> 01:26:54,620
 亲爱的 杜利特小姐
-{\fs11}MRS. HlGGlNS: My dear, Miss Doolittle.{\r}
+{\fs11}MRS. HIGGINS: My dear, Miss Doolittle.{\r}
 
 1446
 01:26:54,830 --> 01:26:57,370
@@ -7169,7 +7223,7 @@ A
 1447
 01:26:57,580 --> 01:26:59,790
 我很荣幸 亲爱的
-{\fs11}MRS. HlGGlNS: Delighted, my dear.{\r}
+{\fs11}MRS. HIGGINS: Delighted, my dear.{\r}
 
 1448
 01:27:00,210 --> 01:27:01,460
@@ -7203,7 +7257,7 @@ A
 
 1454
 01:27:11,850 --> 01:27:13,850
-这位是弗瑞迪 埃恩斯福德-希尔
+这位是弗雷迪 埃恩斯福德-希尔
 {\fs11}And Freddy Eynsford-Hill.{\r}
 
 1455
@@ -7243,6 +7297,7 @@ A
 
 1462
 01:27:47,550 --> 01:27:49,800
+[希金斯轻敲]
 {\fs11}[HIGGINS TAPPING]{\r}
 
 1463
@@ -7257,6 +7312,7 @@ A
 
 1465
 01:27:56,350 --> 01:27:57,680
+[弗雷迪在笑]
 {\fs11}[FREDDY LAUGHS]{\r}
 
 1466
@@ -7312,7 +7368,7 @@ A
 1476
 01:28:25,710 --> 01:28:27,380
 把她“送走”了？
-{\fs11}MRS. HlGGlNS: Done her in?{\r}
+{\fs11}MRS. HIGGINS: Done her in?{\r}
 
 1477
 01:28:27,590 --> 01:28:29,380
@@ -7346,6 +7402,7 @@ A
 
 1483
 01:28:45,570 --> 01:28:47,480
+[希金斯在呻吟]
 {\fs11}[HIGGINS GROANS]{\r}
 
 1484
@@ -7360,6 +7417,7 @@ A
 
 1486
 01:28:54,450 --> 01:28:55,490
+[弗雷迪在笑]
 {\fs11}[FREDDY LAUGHS]{\r}
 
 1487
@@ -7384,7 +7442,8 @@ A
 
 1491
 01:29:09,710 --> 01:29:11,050
-{\fs11}[lNAUDlBLE DIALOGUE]{\r}
+[听不见的对话]
+{\fs11}[INAUDIBLE DIALOGUE]{\r}
 
 1492
 01:29:11,260 --> 01:29:14,380
@@ -7483,6 +7542,7 @@ A
 
 1511
 01:30:05,600 --> 01:30:07,730
+[弗雷迪在笑]
 {\fs11}[FREDDY LAUGHING]{\r}
 
 1512
@@ -7512,8 +7572,8 @@ A
 
 1517
 01:30:21,950 --> 01:30:23,790
-噢 不
-{\fs11}HlGGlNS: Oh, no.{\r}
+希金斯：噢 不
+{\fs11}HIGGINS: Oh, no.{\r}
 
 1518
 01:30:24,000 --> 01:30:25,540
@@ -7538,7 +7598,7 @@ A
 1522
 01:30:34,260 --> 01:30:36,470
 - 走吧 亲爱的 - 我可不那么认为
-{\fs11}- But come, my dear. MRS. HlGGlNS: I don't suppose so.{\r}
+{\fs11}- But come, my dear. MRS. HIGGINS: I don't suppose so.{\r}
 
 1523
 01:30:36,680 --> 01:30:38,010
@@ -7553,7 +7613,7 @@ A
 1525
 01:30:40,220 --> 01:30:42,600
 这样您就会更加喜欢这场比赛
-{\fs11}You'll enjoy the race ever so much more.{\r}
+{\fs11}You'II enjoy the race ever so much more.{\r}
 
 1526
 01:30:42,810 --> 01:30:43,890
@@ -7563,12 +7623,12 @@ A
 1527
 01:30:44,100 --> 01:30:46,730
 - 他的名字叫多弗 - 走吧 亲爱的
-{\fs11}- His name is Dover. PlCKERlNG: Come along, my dear.{\r}
+{\fs11}- His name is Dover. PICKERING: Come along, my dear.{\r}
 
 1528
 01:30:50,310 --> 01:30:53,980
 <i>他们再一次 在起跑线上准备</i>
-{\fs11}ALL [SlNGlNG]: There they are again Lining up to run{\r}
+{\fs11}ALL [SINGING]: There they are again Lining up to run{\r}
 
 1529
 01:30:54,190 --> 01:30:57,740
@@ -7582,6 +7642,7 @@ A
 
 1531
 01:31:03,160 --> 01:31:05,040
+[万马奔腾]
 {\fs11}[HORSES GALLOPING]{\r}
 
 1532
@@ -7616,11 +7677,12 @@ A
 
 1538
 01:31:24,020 --> 01:31:25,770
+[所有人在笑]
 {\fs11}[ALL MURMURING]{\r}
 
 1539
 01:31:25,980 --> 01:31:28,850
-别慌 亲爱的 是啊
+男：别慌 亲爱的 是啊
 {\fs11}MAN: Don't upset yourself, my dear. WOMAN: Please.{\r}
 
 1540
@@ -7685,7 +7747,7 @@ A
 
 1552
 01:32:11,520 --> 01:32:14,900
-教伊莱莎 同伊莱莎说话 听伊莱莎说话 打扮伊莱莎
+教伊莉莎 同伊莉莎说话 听伊莉莎说话 打扮伊莉莎
 {\fs11}Teaching Eliza, talking to Eliza, listening to Eliza, dressing Eliza.{\r}
 
 1553
@@ -7705,7 +7767,7 @@ A
 
 1556
 01:33:30,430 --> 01:33:32,430
-我说 先生...
+弗雷迪：我说 先生...
 {\fs11}FREDDY: I say, sir...{\r}
 
 1557
@@ -7725,7 +7787,7 @@ A
 
 1560
 01:33:46,780 --> 01:33:49,450
-晚上好 希金斯教授
+皮尔斯：晚上好 希金斯教授
 {\fs11}PEARCE: Good evening, Professor Higgins.{\r}
 
 1561
@@ -7765,7 +7827,7 @@ A
 
 1568
 01:34:37,170 --> 01:34:39,920
-- 我该怎么通报呢？ - 弗瑞迪 埃恩斯福德-希尔
+- 我该怎么通报呢？ - 弗雷迪 埃恩斯福德-希尔
 {\fs11}- Whom shall I say is calling? - Freddy Eynsford-Hill.{\r}
 
 1569
@@ -7821,7 +7883,7 @@ A
 1579
 01:35:15,580 --> 01:35:21,000
 <i>可忽然间 我弹起几层楼高</i>
-{\fs11}All at once am I Several stories high{\r}
+{\fs11}AII at once am I Several stories high{\r}
 
 1580
 01:35:21,210 --> 01:35:26,920
@@ -7895,7 +7957,7 @@ A
 
 1594
 01:36:40,870 --> 01:36:42,120
-噢 先生
+皮尔斯：噢 先生
 {\fs11}PEARCE: Oh, sir.{\r}
 
 1595
@@ -7921,7 +7983,7 @@ A
 1599
 01:36:55,470 --> 01:36:57,510
 好的 告诉她我会等她
-{\fs11}Yes. Tell her that I'll wait.{\r}
+{\fs11}Yes. Tell her that I'II wait.{\r}
 
 1600
 01:36:57,720 --> 01:37:00,100
@@ -7931,7 +7993,7 @@ A
 1601
 01:37:00,310 --> 01:37:03,480
 你难道看不出来吗？我很乐意等
-{\fs11}But don't you see? I'll be happier here.{\r}
+{\fs11}But don't you see? I'II be happier here.{\r}
 
 1602
 01:37:11,780 --> 01:37:17,280
@@ -8011,7 +8073,7 @@ A
 1617
 01:38:11,550 --> 01:38:13,130
 现在 如果你能原谅的话
-{\fs11}Now, if you'll excuse me.{\r}
+{\fs11}Now, if you'II excuse me.{\r}
 
 1618
 01:38:13,340 --> 01:38:15,800
@@ -8036,11 +8098,11 @@ A
 1622
 01:38:22,930 --> 01:38:24,140
 这只能记在你的头上
-{\fs11}it'll be on your head alone.{\r}
+{\fs11}it'II be on your head alone.{\r}
 
 1623
 01:38:24,350 --> 01:38:25,440
-伊莱莎什么都可以做到
+伊莉莎什么都可以做到
 {\fs11}Eliza can do anything.{\r}
 
 1624
@@ -8061,7 +8123,7 @@ A
 1627
 01:38:34,240 --> 01:38:36,240
 想想看要是那样会有多可怕
-{\fs11}PlCKERlNG: Think how agonizing it would be.{\r}
+{\fs11}PICKERING: Think how agonizing it would be.{\r}
 
 1628
 01:38:36,450 --> 01:38:39,200
@@ -8101,7 +8163,7 @@ A
 1635
 01:38:50,540 --> 01:38:52,170
 喝点儿淡酒 它能让你紧张的神经缓和下来
-{\fs11}Have some port. lt'll quieten your nerves.{\r}
+{\fs11}Have some port. lt'II quieten your nerves.{\r}
 
 1636
 01:38:52,380 --> 01:38:54,760
@@ -8230,6 +8292,7 @@ A
 
 1661
 01:40:08,870 --> 01:40:12,250
+[脚步声]
 {\fs11}[FOOTSTEPS APPROACHING]{\r}
 
 1662
@@ -8258,7 +8321,7 @@ A
 
 1667
 01:43:16,270 --> 01:43:19,230
-休 德维尔夫妇
+男仆：休 德维尔夫妇
 {\fs11}BUTLER: Mr. and Mrs. Hugh Deuvile.{\r}
 
 1668
@@ -8403,6 +8466,7 @@ A
 
 1696
 01:44:36,010 --> 01:44:37,060
+[希金斯在笑]
 {\fs11}[HIGGINS LAUGHS]{\r}
 
 1697
@@ -8437,7 +8501,7 @@ A
 
 1703
 01:45:09,800 --> 01:45:11,670
-萨克森子爵夫妇
+男仆：萨克森子爵夫妇
 {\fs11}BUTLER: Viscount and Viscountess Saxon.{\r}
 
 1704
@@ -8472,12 +8536,12 @@ A
 
 1710
 01:45:55,700 --> 01:45:58,070
-伊莱莎杜利特小姐 皮克林上校
+伊莉莎杜利特小姐 皮克林上校
 {\fs11}Miss Eliza Doolittle, Colonel Pickering.{\r}
 
 1711
 01:45:58,210 --> 01:46:01,490
-伊莱莎杜利特小姐 皮克林上校
+伊莉莎杜利特小姐 皮克林上校
 {\fs11}Miss Eliza Doolittle, Colonel Pickering.{\r}
 
 1712
@@ -8507,13 +8571,13 @@ A
 
 1717
 01:46:11,860 --> 01:46:14,320
-今晚您身边的这位年轻女士可真迷人
+女士：今晚您身边的这位年轻女士可真迷人
 {\fs11}LADY: What an enchanting young lady you have with you this evening.{\r}
 
 1718
 01:46:14,530 --> 01:46:16,110
 - 谢谢 - 噢 她是谁？
-{\fs11}PlCKERlNG: Thank you. - Well, who is she?{\r}
+{\fs11}PICKERING: Thank you. - Well, who is she?{\r}
 
 1719
 01:46:16,320 --> 01:46:20,620
@@ -8537,30 +8601,32 @@ A
 
 1723
 01:46:35,930 --> 01:46:37,970
+[聊天的声音]
 {\fs11}[CHATTERING]{\r}
 
 1724
 01:46:46,310 --> 01:46:48,230
-那是她儿子吗？
+女1：那是她儿子吗？
 {\fs11}WOMAN 1 : ls that her son?{\r}
 
 1725
 01:46:50,900 --> 01:46:52,900
-我可不相信...
+女2：我可不相信...
 {\fs11}WOMAN 2: I don't believe in...{\r}
 
 1726
 01:46:53,110 --> 01:46:55,110
-我要不行了
+女3：我要不行了
 {\fs11}WOMAN 3: I shall die.{\r}
 
 1727
 01:46:55,320 --> 01:46:57,070
+[几乎听不见的讲话声]
 {\fs11}[SPEAKING INAUDIBLY]{\r}
 
 1728
 01:46:57,820 --> 01:47:01,080
-亨利 必须马上带伊莱莎回去 这里有位语言专家
+亨利 必须马上带伊莉莎回去 这里有位语言专家
 {\fs11}Henry must take Eliza home at once. There's a language expert here.{\r}
 
 1729
@@ -8595,7 +8661,7 @@ A
 
 1735
 01:47:16,510 --> 01:47:19,180
-我们只听最有权威的
+女1：我们只听最有权威的
 {\fs11}WOMAN 1 : We heard on the best authority.{\r}
 
 1736
@@ -8615,11 +8681,12 @@ A
 
 1739
 01:47:28,810 --> 01:47:32,440
+[喇叭声]
 {\fs11}[HORNS PLAYING]{\r}
 
 1740
 01:47:37,150 --> 01:47:40,070
-尊贵的 特兰西瓦尼亚女王陛下
+男仆：尊贵的 特兰西瓦尼亚女王陛下
 {\fs11}BUTLER: Her Majesty, the queen of Transylvania{\r}
 
 1741
@@ -8629,6 +8696,7 @@ A
 
 1742
 01:47:44,740 --> 01:47:47,790
+[乐队演奏]
 {\fs11}[BAND PLAYING]{\r}
 
 1743
@@ -8643,30 +8711,32 @@ A
 
 1745
 01:48:59,360 --> 01:49:01,150
-真是个迷人的女孩儿
+男：真是个迷人的女孩儿
 {\fs11}MAN: Such a charming girl.{\r}
 
 1746
 01:49:01,360 --> 01:49:04,490
-从她说话的时候我们就知道了
-{\fs11}WOMAN 1 : We'll know when we hear her announced.{\r}
+女1：从她说话的时候我们就知道了
+{\fs11}WOMAN 1 : We'II know when we hear her announced.{\r}
 
 1747
 01:49:04,700 --> 01:49:06,950
-看那身漂亮的舞会礼服
+女2：看那身漂亮的舞会礼服
 {\fs11}WOMAN 2: That's a beautiful ball gown.{\r}
 
 1748
 01:49:10,830 --> 01:49:13,080
+[聊天的声音]
 {\fs11}[CHATTERING]{\r}
 
 1749
 01:49:14,750 --> 01:49:16,790
-那是她的儿子吗？
+女3：那是她的儿子吗？
 {\fs11}WOMAN 3: ls that her son?{\r}
 
 1750
 01:49:17,710 --> 01:49:20,800
+[聊天的声音]
 {\fs11}[CHATTERING]{\r}
 
 1751
@@ -8676,63 +8746,73 @@ A
 
 1752
 01:50:20,690 --> 01:50:23,400
+[女王说外语]
 {\fs11}[QUEEN SPEAKING FOREIGN LANGUAGE]{\r}
 
 1753
 01:50:29,700 --> 01:50:33,620
+[乐队在演奏华尔兹]
 {\fs11}[BAND PLAYING WALTZ]{\r}
 
 1754
 01:51:09,120 --> 01:51:10,870
-伊莱莎？
+伊莉莎？
 {\fs11}Eliza?{\r}
 
 1755
 01:52:08,300 --> 01:52:10,630
+[几乎听不见的讲话声]
 {\fs11}[SPEAKING INAUDIBLY]{\r}
 
 1756
 01:52:25,730 --> 01:52:27,740
+[乐队停止演奏]
 {\fs11}[BAND STOPS PLAYING]{\r}
 
 1757
 01:52:31,910 --> 01:52:35,120
+[几乎听不见的讲话声]
 {\fs11}[SPEAKING INAUDIBLY]{\r}
 
 1758
 01:52:43,040 --> 01:52:51,630
-{\fs11}[SPEAKING INDlSTlNCTLY]{\r}
+[朦朦胧胧的说话声]
+{\fs11}[SPEAKING INDISTINCTLY]{\r}
 
 1759
 01:52:56,350 --> 01:52:59,770
-{\fs11}[PEOPLE WHlSPERlNG lNDlSTlNCTLY]{\r}
+[人们的低声碎语]
+{\fs11}[PEOPLE WHISPERING INDISTINCTLY]{\r}
 
 1760
 01:53:13,160 --> 01:53:16,030
-{\fs11}[MAN WHlSPERlNG INDISTINCTLY]{\r}
+[男人在低声碎语]
+{\fs11}[MAN WHISPERING INDISTINCTLY]{\r}
 
 1761
 01:53:16,950 --> 01:53:19,790
+[希金斯在笑]
 {\fs11}[HIGGINS LAUGHING]{\r}
 
 1762
 01:53:21,080 --> 01:53:23,960
 简直太不可思议了
-{\fs11}PlCKERlNG: Absolutely fantastic.{\r}
+{\fs11}PICKERING: Absolutely fantastic.{\r}
 
 1763
 01:53:24,170 --> 01:53:26,040
+[男人在笑]
 {\fs11}[MEN LAUGHING]{\r}
 
 1764
 01:53:26,250 --> 01:53:27,590
-只能说蠢货太多了
-{\fs11}HlGGlNS: A lot of tomfoolery.{\r}
+希金斯：只能说蠢货太多了
+{\fs11}HIGGINS: A lot of tomfoolery.{\r}
 
 1765
 01:53:27,800 --> 01:53:29,840
 这真是巨大的成功
-{\fs11}PlCKERlNG: lt was an immense achievement.{\r}
+{\fs11}PICKERING: lt was an immense achievement.{\r}
 
 1766
 01:53:30,050 --> 01:53:31,670
@@ -8827,7 +8907,7 @@ A
 1784
 01:54:20,010 --> 01:54:22,720
 <i>你独自克服了 面前所有的障碍</i>
-{\fs11}All alone you hurdled Every obstacle in sight{\r}
+{\fs11}AII alone you hurdled Every obstacle in sight{\r}
 
 1785
 01:54:22,930 --> 01:54:24,640
@@ -8877,7 +8957,7 @@ A
 1794
 01:54:59,890 --> 01:55:02,350
 <i>你应该听到了 那些“哦”还有“啊”的惊叹声</i>
-{\fs11}PlCKERlNG: You should have heard The "oohs" and "ahs"{\r}
+{\fs11}PICKERING: You should have heard The "oohs" and "ahs"{\r}
 
 1795
 01:55:02,560 --> 01:55:04,020
@@ -8916,6 +8996,7 @@ A
 
 1802
 01:55:30,380 --> 01:55:32,210
+[男人在笑]
 {\fs11}[MEN LAUGHING]{\r}
 
 1803
@@ -9030,6 +9111,7 @@ A
 
 1825
 01:56:45,160 --> 01:56:46,870
+[说着外语]
 {\fs11}[SPEAKS FOREIGN LANGUAGE]{\r}
 
 1826
@@ -9069,6 +9151,7 @@ A
 
 1833
 01:57:17,070 --> 01:57:18,360
+[所有人都在笑]
 {\fs11}[ALL LAUGHING]{\r}
 
 1834
@@ -9113,12 +9196,13 @@ A
 
 1842
 01:57:47,010 --> 01:57:48,310
+[所有人都在笑]
 {\fs11}[ALL LAUGHING]{\r}
 
 1843
 01:57:48,510 --> 01:57:49,970
 <i>太精彩了</i>
-{\fs11}SERVANTS [SlNGlNG]: Bravo{\r}
+{\fs11}SERVANTS [SINGING]: Bravo{\r}
 
 1844
 01:57:50,180 --> 01:57:54,350
@@ -9143,7 +9227,7 @@ A
 1848
 01:58:07,450 --> 01:58:11,450
 <i>你将留名青史</i>
-{\fs11}You'll be mentioned in history{\r}
+{\fs11}You'II be mentioned in history{\r}
 
 1849
 01:58:11,660 --> 01:58:14,710
@@ -9168,10 +9252,11 @@ A
 1853
 01:58:23,010 --> 01:58:31,350
 <i>这成功是属于你的 全都是属于你的</i>
-{\fs11}And the credit for it All belongs to you{\r}
+{\fs11}And the credit for it AII belongs to you{\r}
 
 1854
 01:58:32,060 --> 01:58:33,310
+[叹息]
 {\fs11}[SIGHS]{\r}
 
 1855
@@ -9186,13 +9271,13 @@ A
 
 1857
 01:58:41,360 --> 01:58:43,690
-- 晚安 希金斯先生 - 晚安 皮尔斯太太
-{\fs11}PEARCE: Good night, Mr. Higgins. HlGGlNS: Good night, Mrs. Pearce.{\r}
+皮尔斯：- 晚安 希金斯先生 - 晚安 皮尔斯太太
+{\fs11}PEARCE: Good night, Mr. Higgins. HIGGINS: Good night, Mrs. Pearce.{\r}
 
 1858
 01:58:43,900 --> 01:58:46,200
 我想我也要去睡觉了 晚安 希金斯
-{\fs11}PlCKERlNG: I think I'll turn in too. Good night, Higgins.{\r}
+{\fs11}PICKERING: I think I'II turn in too. Good night, Higgins.{\r}
 
 1859
 01:58:46,410 --> 01:58:47,950
@@ -9221,7 +9306,7 @@ A
 
 1864
 01:58:57,460 --> 01:58:59,290
-你去给她留张纸条吧 好吗 伊莱莎？
+你去给她留张纸条吧 好吗 伊莉莎？
 {\fs11}Leave a little note for her, will you, Eliza?{\r}
 
 1865
@@ -9231,12 +9316,13 @@ A
 
 1866
 01:59:31,660 --> 01:59:34,200
+[哭泣]
 {\fs11}[CRYING]{\r}
 
 1867
 01:59:49,010 --> 01:59:51,890
-我把拖鞋留在楼下了 噢 真讨厌
-{\fs11}HlGGlNS: Left them downstairs. Oh, darn it.{\r}
+希金斯：我把拖鞋留在楼下了 噢 真讨厌
+{\fs11}HIGGINS: Left them downstairs. Oh, darn it.{\r}
 
 1868
 01:59:52,100 --> 01:59:54,220
@@ -9315,6 +9401,7 @@ A
 
 1883
 02:00:39,480 --> 02:00:41,390
+[伊莉莎尖叫]
 {\fs11}[ELIZA SCREAMING]{\r}
 
 1884
@@ -9444,8 +9531,8 @@ A
 
 1909
 02:01:58,390 --> 02:02:02,230
-现在 听我说 伊莱莎 所有的这些气话纯粹是你个人主观的想法
-{\fs11}Now, listen to me, Eliza. All this irritation is purely subjective.{\r}
+现在 听我说 伊莉莎 所有的这些气话纯粹是你个人主观的想法
+{\fs11}Now, listen to me, Eliza. AII this irritation is purely subjective.{\r}
 
 1910
 02:02:02,440 --> 02:02:04,600
@@ -9465,7 +9552,7 @@ A
 1913
 02:02:11,990 --> 02:02:14,320
 这样你就会觉得舒服多了
-{\fs11}and you'll feel very much more comfortable.{\r}
+{\fs11}and you'II feel very much more comfortable.{\r}
 
 1914
 02:02:14,530 --> 02:02:18,120
@@ -9529,7 +9616,7 @@ A
 
 1926
 02:02:52,740 --> 02:02:54,360
-你看 伊莱莎 并不是所有的男人们
+你看 伊莉莎 并不是所有的男人们
 {\fs11}You see, Eliza, all men are not confirmed old bachelors{\r}
 
 1927
@@ -9609,7 +9696,7 @@ A
 
 1942
 02:03:39,320 --> 02:03:41,530
-哦 胡说 伊莱莎 不要将人与人之间的关系
+哦 胡说 伊莉莎 不要将人与人之间的关系
 {\fs11}Oh, tosh, Eliza, don't insult human relations{\r}
 
 1943
@@ -9650,7 +9737,7 @@ A
 1950
 02:04:02,680 --> 02:04:05,180
 噢 振作点儿 你会没事的
-{\fs11}Oh, come on now. You'll be all right.{\r}
+{\fs11}Oh, come on now. You'II be all right.{\r}
 
 1951
 02:04:06,180 --> 02:04:09,690
@@ -9709,7 +9796,7 @@ A
 
 1962
 02:04:40,130 --> 02:04:43,220
-你不该那么说的 伊莱莎 那让人觉得你想要什么
+你不该那么说的 伊莉莎 那让人觉得你想要什么
 {\fs11}You shouldn't have said that, Eliza. That shows a want of feeling.{\r}
 
 1963
@@ -9844,10 +9931,12 @@ A
 
 1989
 02:06:06,300 --> 02:06:09,560
+[留声机上播放的哼元音的声音]
 {\fs11}[VOICE SPEAKING VOWELS PLAYING ON GRAMOPHONE]{\r}
 
 1990
 02:06:10,560 --> 02:06:12,140
+[留声机停止播放]
 {\fs11}[GRAMOPHONE STOPS]{\r}
 
 1991
@@ -9858,7 +9947,7 @@ A
 1992
 02:07:02,820 --> 02:07:07,280
 <i>你会后悔的 可到那时就算你哭得一塌糊涂也太晚了</i>
-{\fs11}You'll be sorry But your tears'll be too late{\r}
+{\fs11}You'II be sorry But your tears'II be too late{\r}
 
 1993
 02:07:09,070 --> 02:07:12,120
@@ -9868,7 +9957,7 @@ A
 1994
 02:07:12,750 --> 02:07:16,250
 <i>你将再也没有可以拥抱的人</i>
-{\fs11}And you'll have no one to run to{\r}
+{\fs11}And you'II have no one to run to{\r}
 
 1995
 02:07:16,670 --> 02:07:18,500
@@ -9888,7 +9977,7 @@ A
 1998
 02:07:58,370 --> 02:08:04,000
 <i>可忽然间 我弹起几层楼高</i>
-{\fs11}All at once am I Several stories high{\r}
+{\fs11}AII at once am I Several stories high{\r}
 
 1999
 02:08:04,210 --> 02:08:09,970
@@ -9952,7 +10041,7 @@ A
 
 2011
 02:09:09,900 --> 02:09:11,490
-弗瑞迪 你在这儿干什么？
+弗雷迪 你在这儿干什么？
 {\fs11}Freddy, whatever are you doing here?{\r}
 
 2012
@@ -9972,12 +10061,12 @@ A
 
 2015
 02:09:19,540 --> 02:09:22,370
-叫我伊莱莎就够了
+叫我伊莉莎就够了
 {\fs11}Eliza's good enough for me.{\r}
 
 2016
 02:09:23,330 --> 02:09:26,960
-噢 弗瑞迪 你不觉得我是个无情的贫民区女孩儿吗？
+噢 弗雷迪 你不觉得我是个无情的贫民区女孩儿吗？
 {\fs11}Oh, Freddy, you don't think I'm a heartless guttersnipe, do you?{\r}
 
 2017
@@ -10138,7 +10227,7 @@ A
 2048
 02:11:12,900 --> 02:11:16,950
 <i>再多说一个词儿我就要疯了</i>
-{\fs11}Say one more word and I'll scream{\r}
+{\fs11}Say one more word and I'II scream{\r}
 
 2049
 02:11:17,160 --> 02:11:20,450
@@ -10172,7 +10261,7 @@ A
 
 2055
 02:11:41,220 --> 02:11:43,010
-- 伊莱莎 你这是要去哪儿？ - 去河边
+- 伊莉莎 你这是要去哪儿？ - 去河边
 {\fs11}- Eliza, where are you going? - To the river.{\r}
 
 2056
@@ -10182,11 +10271,12 @@ A
 
 2057
 02:11:46,690 --> 02:11:49,190
-伊莱莎 亲爱的 你在说什么？
+伊莉莎 亲爱的 你在说什么？
 {\fs11}Eliza, darling, what do you mean?{\r}
 
 2058
 02:11:56,530 --> 02:11:58,200
+[一辆出租车路过]
 {\fs11}[TAXI PASSING]{\r}
 
 2059
@@ -10196,7 +10286,7 @@ A
 
 2060
 02:11:59,700 --> 02:12:00,950
-出租车
+弗雷迪：出租车
 {\fs11}FREDDY: Taxi.{\r}
 
 2061
@@ -10206,12 +10296,12 @@ A
 
 2062
 02:12:02,410 --> 02:12:03,450
-我有
+伊莉莎：我有
 {\fs11}ELIZA: I have.{\r}
 
 2063
 02:12:03,660 --> 02:12:06,620
-- 我们这是去哪儿？ - 去我本属于的地方
+弗雷迪：- 我们这是去哪儿？ - 去我本属于的地方
 {\fs11}FREDDY: Where are we going? - Where I belong.{\r}
 
 2064
@@ -10222,7 +10312,7 @@ A
 2065
 02:12:49,210 --> 02:12:52,460
 <i>有一张大椅子</i>
-{\fs11}MAN [SlNGlNG]: With one enormous chair{\r}
+{\fs11}MAN [SINGING]: With one enormous chair{\r}
 
 2066
 02:12:52,670 --> 02:12:58,090
@@ -10231,7 +10321,7 @@ A
 
 2067
 02:12:58,300 --> 02:13:02,970
-<i>有好多的巧克力在等着我吃</i>
+合唱：<i>有好多的巧克力在等着我吃</i>
 {\fs11}CHORUS: Lots of chocolate for me to eat{\r}
 
 2068
@@ -10266,7 +10356,7 @@ A
 
 2074
 02:13:28,000 --> 02:13:31,960
-<i>直到春季来临前</i>
+合唱：<i>直到春季来临前</i>
 {\fs11}CHORUS: I would never budge{\r}
 
 2075
@@ -10381,17 +10471,17 @@ A
 
 2097
 02:15:18,150 --> 02:15:19,520
-再见 阿尔菲
+男1：再见 阿尔菲
 {\fs11}MAN 1 : Goodbye, Alfie.{\r}
 
 2098
 02:15:19,730 --> 02:15:22,020
-- 再见 - 现在我该叫您杜利特先生了
-{\fs11}MAN 2: Goodbye. MAN 3: I'll call you Mr. Doolittle now.{\r}
+男2：- 再见 - 现在我该叫您杜利特先生了
+{\fs11}MAN 2: Goodbye. MAN 3: I'II call you Mr. Doolittle now.{\r}
 
 2099
 02:15:22,230 --> 02:15:24,150
-下次再来吧 杜利特先生
+男4：下次再来吧 杜利特先生
 {\fs11}MAN 4: Do come again, Mr. Doolittle.{\r}
 
 2100
@@ -10416,7 +10506,7 @@ A
 
 2104
 02:15:32,950 --> 02:15:35,620
-谢谢 杜利特先生
+男4：谢谢 杜利特先生
 {\fs11}MAN 4: Thank you, Mr. Doolittle.{\r}
 
 2105
@@ -10631,7 +10721,7 @@ A
 
 2147
 02:17:33,450 --> 02:17:35,570
-最悲剧的就是这个 伊莱莎
+最悲剧的就是这个 伊莉莎
 {\fs11}That's the tragedy of it, Eliza.{\r}
 
 2148
@@ -10706,17 +10796,17 @@ A
 
 2162
 02:18:15,030 --> 02:18:18,370
-嗯 就是这样 伊莱莎 你现在是一位女士了
+嗯 就是这样 伊莉莎 你现在是一位女士了
 {\fs11}Yeah, that's right, Eliza. You're a lady now.{\r}
 
 2163
 02:18:18,580 --> 02:18:20,490
-伊莱莎 出租车里已经很冷了
+伊莉莎 出租车里已经很冷了
 {\fs11}Eliza, it's getting awfully cold in that taxi.{\r}
 
 2164
 02:18:20,700 --> 02:18:24,750
-嘿 伊莱莎 你要来参加我今天上午的婚礼吗？
+嘿 伊莉莎 你要来参加我今天上午的婚礼吗？
 {\fs11}Here, Eliza, would you like to come and see me turned off this morning?{\r}
 
 2165
@@ -10736,12 +10826,12 @@ A
 
 2168
 02:18:32,420 --> 02:18:34,970
-这里的事情都办完了吗 伊莱莎？
+这里的事情都办完了吗 伊莉莎？
 {\fs11}Are you all finished here, Eliza?{\r}
 
 2169
 02:18:35,180 --> 02:18:36,800
-是的 弗瑞迪
+是的 弗雷迪
 {\fs11}Yes, Freddy.{\r}
 
 2170
@@ -10756,7 +10846,7 @@ A
 
 2172
 02:18:43,850 --> 02:18:45,980
-谢谢你 伊莱莎
+谢谢你 伊莉莎
 {\fs11}Thank you, Eliza.{\r}
 
 2173
@@ -10782,7 +10872,7 @@ A
 2177
 02:19:17,640 --> 02:19:20,800
 <i>到处是美酒和姑娘 在整个伦敦里</i>
-{\fs11}There's drinks and girls All over London{\r}
+{\fs11}There's drinks and girls AII over London{\r}
 
 2178
 02:19:21,010 --> 02:19:25,310
@@ -10832,7 +10922,7 @@ A
 2187
 02:19:55,300 --> 02:19:57,010
 <i>让我看看你们有多想我</i>
-{\fs11}Show how you'll miss me{\r}
+{\fs11}Show how you'II miss me{\r}
 
 2188
 02:19:57,220 --> 02:20:00,760
@@ -10881,12 +10971,13 @@ A
 
 2197
 02:20:32,540 --> 02:20:34,250
+[所有人都在笑]
 {\fs11}[ALL LAUGHING]{\r}
 
 2198
 02:20:35,130 --> 02:20:38,970
 <i>我今天上午就要结婚了</i>
-{\fs11}ALL [SlNGlNG]: I'm gettin' married in the mornin'{\r}
+{\fs11}ALL [SINGING]: I'm gettin' married in the mornin'{\r}
 
 2199
 02:20:39,180 --> 02:20:42,720
@@ -10925,6 +11016,7 @@ A
 
 2206
 02:21:05,450 --> 02:21:06,620
+[大家都在欢呼]
 {\fs11}[ALL CHEERING]{\r}
 
 2207
@@ -10980,7 +11072,7 @@ A
 2217
 02:21:44,740 --> 02:21:48,370
 <i>姑娘们 过来吻我吧 让我看看你们有多想我</i>
-{\fs11}Girls, come and kiss me Show how you'll miss me{\r}
+{\fs11}Girls, come and kiss me Show how you'II miss me{\r}
 
 2218
 02:21:48,580 --> 02:21:52,160
@@ -11029,7 +11121,7 @@ A
 
 2227
 02:22:23,820 --> 02:22:24,860
-快走吧 阿尔菲
+杰米：快走吧 阿尔菲
 {\fs11}JAMIE: Come on, Alfie.{\r}
 
 2228
@@ -11039,13 +11131,13 @@ A
 
 2229
 02:22:29,950 --> 02:22:31,200
-啊 他打扮得多光鲜
+男：啊 他打扮得多光鲜
 {\fs11}MAN: Yeah, he's light.{\r}
 
 2230
 02:22:31,410 --> 02:22:33,370
 <i>姑娘们快向他献吻</i>
-{\fs11}ALL [SlNGlNG]: Girls come and kiss him{\r}
+{\fs11}ALL [SINGING]: Girls come and kiss him{\r}
 
 2231
 02:22:33,580 --> 02:22:35,040
@@ -11079,7 +11171,7 @@ A
 
 2237
 02:23:02,690 --> 02:23:04,070
-嗷！
+男：嗷！
 {\fs11}MAN: Ouch!{\r}
 
 2238
@@ -11104,27 +11196,28 @@ A
 
 2242
 02:23:35,890 --> 02:23:38,650
-- 这真是个令人愉快的早晨 - 早上好 阿尔菲
+男1：- 这真是个令人愉快的早晨 - 早上好 阿尔菲
 {\fs11}MAN 1 : lt's a nice morning. MAN 2: Good morning, Alfie.{\r}
 
 2243
 02:23:38,860 --> 02:23:39,900
-让我们欢呼三声
+男3：让我们欢呼三声
 {\fs11}MAN 3: Three cheers.{\r}
 
 2244
 02:23:40,110 --> 02:23:41,190
-回去吧
+女：回去吧
 {\fs11}WOMAN: Come back.{\r}
 
 2245
 02:23:42,030 --> 02:23:44,320
+[所有人都在笑]
 {\fs11}[ALL LAUGHING]{\r}
 
 2246
 02:23:56,080 --> 02:24:02,460
 <i>星光也到了回去睡觉的时候</i>
-{\fs11}ALL [SlNGlNG]: Starlight is reelin' home to bed now{\r}
+{\fs11}ALL [SINGING]: Starlight is reelin' home to bed now{\r}
 
 2247
 02:24:03,250 --> 02:24:09,590
@@ -11188,8 +11281,8 @@ A
 
 2259
 02:25:06,320 --> 02:25:07,530
-皮克林 皮克林
-{\fs11}HlGGlNS: Pickering. Pickering.{\r}
+希金斯：皮克林 皮克林
+{\fs11}HIGGINS: Pickering. Pickering.{\r}
 
 2260
 02:25:07,740 --> 02:25:09,530
@@ -11208,7 +11301,7 @@ A
 
 2263
 02:25:12,620 --> 02:25:14,240
-出麻烦了 伊莱莎逃走了
+出麻烦了 伊莉莎逃走了
 {\fs11}Here's a confounded thing. Eliza's bolted.{\r}
 
 2264
@@ -11233,7 +11326,7 @@ A
 
 2268
 02:25:22,380 --> 02:25:24,420
-- 我不知道我的日程安排 - 伊莱莎知道的
+- 我不知道我的日程安排 - 伊莉莎知道的
 {\fs11}- I don't know my appointments. - Eliza would know.{\r}
 
 2269
@@ -11308,7 +11401,7 @@ A
 
 2283
 02:25:52,530 --> 02:25:54,660
-希金斯先生 你不能把伊莱莎的名字给警察
+希金斯先生 你不能把伊莉莎的名字给警察
 {\fs11}Mr. Higgins, you can't give Eliza's name to the police{\r}
 
 2284
@@ -11363,7 +11456,7 @@ A
 
 2294
 02:26:21,730 --> 02:26:25,190
-是一位名叫伊莱莎 杜利特的小姐 是的 约21岁
+是一位名叫伊莉莎 杜利特的小姐 是的 约21岁
 {\fs11}A Miss Eliza Doolittle, yeah. About 21 .{\r}
 
 2295
@@ -11494,7 +11587,7 @@ A
 2320
 02:27:37,010 --> 02:27:40,180
 也许他能帮忙 我打算给他打个电话
-{\fs11}Perhaps he can help. Think I'll give him a ring.{\r}
+{\fs11}Perhaps he can help. Think I'II give him a ring.{\r}
 
 2321
 02:27:40,390 --> 02:27:41,930
@@ -11533,7 +11626,7 @@ A
 
 2328
 02:28:00,120 --> 02:28:01,200
-<i>这里是内政部</i>
+男：<i>这里是内政部</i>
 {\fs11}MAN: The Home Office here.{\r}
 
 2329
@@ -11544,7 +11637,7 @@ A
 2330
 02:28:04,160 --> 02:28:07,580
 <i>- 您能稍等一下吗 先生？</i> - 布鲁...好的 我会等的
-{\fs11}- Would you hold on, sir? - Brew-- Yes, I'll wait.{\r}
+{\fs11}- Would you hold on, sir? - Brew-- Yes, I'II wait.{\r}
 
 2331
 02:28:12,040 --> 02:28:13,500
@@ -11739,7 +11832,7 @@ A
 2369
 02:29:56,480 --> 02:29:58,980
 噢 布鲁兹 你绝对猜不到我是谁
-{\fs11}Oh, Bruzzie, you'll never never guess who this is.{\r}
+{\fs11}Oh, Bruzzie, you'II never never guess who this is.{\r}
 
 2370
 02:29:59,190 --> 02:30:00,610
@@ -11779,7 +11872,7 @@ A
 2377
 02:30:15,080 --> 02:30:16,880
 听我说 布鲁兹 我给你打电话是有事要你帮忙
-{\fs11}Listen, Bruzzie, I'll tell you why I rang up.{\r}
+{\fs11}Listen, Bruzzie, I'II tell you why I rang up.{\r}
 
 2378
 02:30:17,090 --> 02:30:20,340
@@ -11824,12 +11917,12 @@ A
 2386
 02:30:42,950 --> 02:30:46,160
 去他的希金斯先生 是我会想念她
-{\fs11}Blast Mr. Higgins. I'll miss her.{\r}
+{\fs11}Blast Mr. Higgins. I'II miss her.{\r}
 
 2387
 02:30:47,580 --> 02:30:49,120
-皮克林？
-{\fs11}HlGGlNS: Pickering?{\r}
+希金斯：皮克林？
+{\fs11}HIGGINS: Pickering?{\r}
 
 2388
 02:30:51,250 --> 02:30:53,040
@@ -11843,7 +11936,7 @@ A
 
 2390
 02:30:58,540 --> 02:31:00,420
-- 什么事 先生？ - 上校去哪儿了？
+皮尔斯：- 什么事 先生？ - 上校去哪儿了？
 {\fs11}PEARCE: Yes, sir? - Where's the colonel?{\r}
 
 2391
@@ -11998,8 +12091,8 @@ A
 
 2421
 02:32:35,810 --> 02:32:37,180
-- 噢 母亲你在吗？ - 是谁啊？
-{\fs11}HlGGlNS: Oh, is mother in? - What's that?{\r}
+希金斯：- 噢 母亲你在吗？ - 是谁啊？
+{\fs11}HIGGINS: Oh, is mother in? - What's that?{\r}
 
 2422
 02:32:37,390 --> 02:32:38,690
@@ -12083,7 +12176,7 @@ A
 
 2438
 02:33:25,270 --> 02:33:27,900
-伊莱莎今早来看我 我也很高兴她来
+伊莉莎今早来看我 我也很高兴她来
 {\fs11}Eliza came to see me this morning and I was delighted to have her.{\r}
 
 2439
@@ -12114,7 +12207,7 @@ A
 2444
 02:33:38,410 --> 02:33:40,080
 噢 那我要先请她滚出去
-{\fs11}Well, I'll see her damned first.{\r}
+{\fs11}Well, I'II see her damned first.{\r}
 
 2445
 02:33:40,290 --> 02:33:43,210
@@ -12183,6 +12276,7 @@ A
 
 2458
 02:34:28,250 --> 02:34:29,590
+[咆哮]
 {\fs11}[GROWLS]{\r}
 
 2459
@@ -12203,11 +12297,11 @@ A
 2462
 02:34:36,970 --> 02:34:41,560
 我会被开除教籍的 我在书房里见他
-{\fs11}I should be excommunicated. I'll see him in the library.{\r}
+{\fs11}I should be excommunicated. I'II see him in the library.{\r}
 
 2463
 02:34:41,770 --> 02:34:44,390
-伊莱莎 要是我儿子敢摔东西 <font color=#FF7F00>[英国人果然喜欢搞不平等条约 赫本可以砸…这就开始护着媳妇了]</font>
+伊莉莎 要是我儿子敢摔东西 <font color=#FF7F00>[英国人果然喜欢搞不平等条约 赫本可以砸…这就开始护着媳妇了]</font>
 {\fs11}Eliza, if my son starts breaking up things,{\r}
 
 2464
@@ -12263,7 +12357,7 @@ A
 2474
 02:35:35,570 --> 02:35:38,200
 如果你回来 你得到的还会跟原来一样
-{\fs11}lf you come back, you'll be treated as you've always been treated.{\r}
+{\fs11}lf you come back, you'II be treated as you've always been treated.{\r}
 
 2475
 02:35:38,410 --> 02:35:40,870
@@ -12302,7 +12396,7 @@ A
 
 2482
 02:35:52,460 --> 02:35:55,170
-要知道 最关键问题 伊莱莎 并不在于良好的礼仪
+要知道 最关键问题 伊莉莎 并不在于良好的礼仪
 {\fs11}You see, the great secret, Eliza, is not a question of good manners{\r}
 
 2483
@@ -12363,7 +12457,7 @@ A
 2494
 02:36:24,450 --> 02:36:27,290
 只知道摁着喇叭向前冲 根本不考虑搭任何人
-{\fs11}All bounce and go and no consideration for anybody.{\r}
+{\fs11}AII bounce and go and no consideration for anybody.{\r}
 
 2495
 02:36:27,500 --> 02:36:30,250
@@ -12388,7 +12482,7 @@ A
 2499
 02:36:44,720 --> 02:36:45,850
 是你自找的
-{\fs11}You'll have to.{\r}
+{\fs11}You'II have to.{\r}
 
 2500
 02:36:46,600 --> 02:36:49,980
@@ -12397,7 +12491,7 @@ A
 
 2501
 02:36:52,440 --> 02:36:54,150
-我会想你的 伊莱莎
+我会想你的 伊莉莎
 {\fs11}I shall miss you, Eliza.{\r}
 
 2502
@@ -12488,7 +12582,7 @@ A
 2519
 02:37:43,120 --> 02:37:44,820
 - 比他年轻 - 我爱怎么说就怎么说
-{\fs11}- Than he is. - I'll talk as I like.{\r}
+{\fs11}- Than he is. - I'II talk as I like.{\r}
 
 2520
 02:37:45,030 --> 02:37:46,580
@@ -12507,7 +12601,7 @@ A
 
 2523
 02:37:52,000 --> 02:37:54,080
-弗瑞迪 希尔一天每天都给我写两三封信
+弗雷迪 希尔一天每天都给我写两三封信
 {\fs11}Freddy Hill writes me twice and three times a day.{\r}
 
 2524
@@ -12592,7 +12686,7 @@ A
 
 2540
 02:38:39,710 --> 02:38:41,920
-- 伊莱莎 你这个傻瓜 - 这不是我要的回答
+- 伊莉莎 你这个傻瓜 - 这不是我要的回答
 {\fs11}- Eliza, you're a fool. - That's not the proper answer.{\r}
 
 2541
@@ -12662,12 +12756,12 @@ A
 
 2554
 02:39:13,460 --> 02:39:16,290
-我会嫁给 弗瑞迪 我会的 当我能够供养他的时候
-{\fs11}I'll marry, Freddy, I will, soon as I'm able to support him.{\r}
+我会嫁给 弗雷迪 我会的 当我能够供养他的时候
+{\fs11}I'II marry, Freddy, I will, soon as I'm able to support him.{\r}
 
 2555
 02:39:17,290 --> 02:39:18,750
-弗瑞迪？
+弗雷迪？
 {\fs11}Freddy?{\r}
 
 2556
@@ -12687,7 +12781,7 @@ A
 
 2559
 02:39:27,180 --> 02:39:30,100
-弗瑞迪爱我 因为他爱我 所以足够做我的国王
+弗雷迪爱我 因为他爱我 所以足够做我的国王
 {\fs11}Freddy loves me. That makes him king enough for me.{\r}
 
 2560
@@ -12698,7 +12792,7 @@ A
 2561
 02:39:33,390 --> 02:39:34,980
 我可以做一名教师
-{\fs11}I'll go and be a teacher.{\r}
+{\fs11}I'II go and be a teacher.{\r}
 
 2562
 02:39:35,520 --> 02:39:37,060
@@ -12708,7 +12802,7 @@ A
 2563
 02:39:37,560 --> 02:39:40,060
 你教给我的东西 我会教语音学
-{\fs11}What you taught me. I'll teach phonetics.{\r}
+{\fs11}What you taught me. I'II teach phonetics.{\r}
 
 2564
 02:39:41,110 --> 02:39:43,610
@@ -12718,7 +12812,7 @@ A
 2565
 02:39:44,190 --> 02:39:48,950
 我可以自荐做那位了不起的匈牙利人的助手
-{\fs11}I'll offer myself as an assistant to that brilliant Hungarian.{\r}
+{\fs11}I'II offer myself as an assistant to that brilliant Hungarian.{\r}
 
 2566
 02:39:49,660 --> 02:39:53,490
@@ -12733,7 +12827,7 @@ A
 2568
 02:39:55,910 --> 02:39:58,870
 你要敢朝那个方向迈出一步 我就要拧断你的脖子
-{\fs11}You take one step in that direction and I'll wring your neck.{\r}
+{\fs11}You take one step in that direction and I'II wring your neck.{\r}
 
 2569
 02:39:59,080 --> 02:40:03,420
@@ -12798,7 +12892,7 @@ A
 2581
 02:40:46,630 --> 02:40:51,890
 <i>春天依然会来 即便没有你</i>
-{\fs11}There'll be spring every year Without you{\r}
+{\fs11}There'II be spring every year Without you{\r}
 
 2582
 02:40:52,100 --> 02:40:55,720
@@ -12808,12 +12902,12 @@ A
 2583
 02:40:55,930 --> 02:40:59,520
 <i>树上依然会结果 海滩也依然还在海边</i>
-{\fs11}There'll be fruit on the tree And a shore by the sea{\r}
+{\fs11}There'II be fruit on the tree And a shore by the sea{\r}
 
 2584
 02:40:59,730 --> 02:41:03,360
 <i>依然会有煎饼和茶 即便没有你</i>
-{\fs11}There'll be crumpets and tea Without you{\r}
+{\fs11}There'II be crumpets and tea Without you{\r}
 
 2585
 02:41:03,570 --> 02:41:07,190
@@ -12947,7 +13041,7 @@ A
 
 2611
 02:42:38,740 --> 02:42:40,700
-伊莱莎 你真是太美了
+伊莉莎 你真是太美了
 {\fs11}Eliza, you're magnificent.{\r}
 
 2612
@@ -13047,7 +13141,7 @@ A
 
 2631
 02:43:57,530 --> 02:43:59,820
-太精彩了 伊莱莎
+太精彩了 伊莉莎
 {\fs11}Bravo, Eliza.{\r}
 
 2632
@@ -13112,7 +13206,7 @@ A
 
 2644
 02:45:22,490 --> 02:45:25,450
-嫁给弗瑞迪 多么幼稚的想法
+嫁给弗雷迪 多么幼稚的想法
 {\fs11}Marry Freddy. What an infantile idea.{\r}
 
 2645
@@ -13123,7 +13217,7 @@ A
 2646
 02:45:29,080 --> 02:45:32,290
 她会后悔的 她一定会后悔的
-{\fs11}But she'll regret it. She'll regret it.{\r}
+{\fs11}But she'II regret it. She'II regret it.{\r}
 
 2647
 02:45:32,500 --> 02:45:36,300
@@ -13132,7 +13226,7 @@ A
 
 2648
 02:45:36,800 --> 02:45:40,470
-<i>我现在就能看到她 弗瑞迪 埃恩斯福德-希尔夫人</i>
+<i>我现在就能看到她 弗雷迪 埃恩斯福德-希尔夫人</i>
 {\fs11}[SINGING] I can see her now Mrs. Freddy Eynsford-Hill{\r}
 
 2649
@@ -13153,7 +13247,7 @@ A
 2652
 02:45:49,890 --> 02:45:52,270
 <i>她试过教授那些 我教给她的东西</i>
-{\fs11}She'll try to teach the things I taught her{\r}
+{\fs11}She'II try to teach the things I taught her{\r}
 
 2653
 02:45:52,770 --> 02:45:55,110
@@ -13183,12 +13277,12 @@ A
 2658
 02:46:12,830 --> 02:46:14,380
 <i>当她回到家 却</i>
-{\fs11}She'll come home, and lo{\r}
+{\fs11}She'II come home, and lo{\r}
 
 2659
 02:46:14,580 --> 02:46:16,040
 <i>发现他早已起床</i>
-{\fs11}He'll have upped and run away{\r}
+{\fs11}He'II have upped and run away{\r}
 
 2660
 02:46:16,250 --> 02:46:19,000
@@ -13197,7 +13291,7 @@ A
 
 2661
 02:46:19,210 --> 02:46:20,510
-<i>可怜的伊莱莎</i>
+<i>可怜的伊莉莎</i>
 {\fs11}Poor Eliza{\r}
 
 2662
@@ -13218,7 +13312,7 @@ A
 2665
 02:46:28,970 --> 02:46:31,810
 <i>那将是多么辛辣的讽刺 在那个必然的夜晚</i>
-{\fs11}How poignant it'll be On that inevitable night{\r}
+{\fs11}How poignant it'II be On that inevitable night{\r}
 
 2666
 02:46:32,020 --> 02:46:34,850
@@ -13283,11 +13377,11 @@ A
 2678
 02:47:17,520 --> 02:47:21,610
 <i>我也会关上门 任这个泼妇被冻死</i>
-{\fs11}I'll slam the door And let the hellcat freeze{\r}
+{\fs11}I'II slam the door And let the hellcat freeze{\r}
 
 2679
 02:47:24,280 --> 02:47:27,780
-嫁给弗瑞迪 哈！
+嫁给弗雷迪 哈！
 {\fs11}Marry Freddy. Ha!{\r}
 
 2680
@@ -13362,12 +13456,12 @@ A
 
 2694
 02:50:12,660 --> 02:50:13,860
-<i>不够什么？</i>
-{\fs11}HlGGlNS: Good enough for what?{\r}
+希金斯：<i>不够什么？</i>
+{\fs11}HIGGINS: Good enough for what?{\r}
 
 2695
 02:50:14,070 --> 02:50:15,530
-<i>付你的还是够了</i>
+伊莉莎：<i>付你的还是够了</i>
 {\fs11}ELIZA: Good enough for you.{\r}
 
 2696
@@ -13388,11 +13482,11 @@ A
 2699
 02:50:20,830 --> 02:50:22,120
 <i>你为什么要这样做呢 小姑娘？</i>
-{\fs11}PlCKERlNG: What is it you want, my girl?{\r}
+{\fs11}PICKERING: What is it you want, my girl?{\r}
 
 2700
 02:50:22,330 --> 02:50:25,130
-<i>我希望自己能像一位女士一样在花店里工作</i>
+伊莉莎：<i>我希望自己能像一位女士一样在花店里工作</i>
 {\fs11}ELIZA: I want to be a lady in a flower shop{\r}
 
 2701
@@ -13437,7 +13531,7 @@ A
 
 2709
 02:50:47,110 --> 02:50:51,440
-<i>这赌注很难拒绝 她的品味如此低俗</i>
+希金斯：<i>这赌注很难拒绝 她的品味如此低俗</i>
 {\fs11}HIGGINS: lt's almost irresistible. She's so deliciously low.{\r}
 
 2710
@@ -13448,15 +13542,16 @@ A
 2711
 02:50:53,990 --> 02:50:55,160
 <i>我愿意同您打这个赌</i>
-{\fs11}I'll take it.{\r}
+{\fs11}I'II take it.{\r}
 
 2712
 02:50:55,370 --> 02:50:58,780
 <i>我会将她从贫民区的邋遢女孩儿 变为一位公爵夫人</i>
-{\fs11}I'll make a duchess of this draggle-tailed guttersnipe.{\r}
+{\fs11}I'II make a duchess of this draggle-tailed guttersnipe.{\r}
 
 2713
 02:50:58,990 --> 02:51:00,290
+[关掉留声机]
 {\fs11}[TURNS GRAMOPHONE OFF]{\r}
 
 2714
@@ -13466,7 +13561,7 @@ A
 
 2715
 02:51:12,220 --> 02:51:13,970
-伊莱莎？
+伊莉莎？
 {\fs11}Eliza?{\r}
 
 2716
